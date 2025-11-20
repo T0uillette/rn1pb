@@ -14,6 +14,7 @@
 - [L'antisémitisme au cœur du RN](https://www.france24.com/fr/france/20250325-voyage-jordan-bardella-israel-antisemitisme-rassemblement-national-extreme-droite?utm_slink=f24.my%2FB2fT) (*)
 - [Russie, Trump, Ukraine… Sur l'international, le RN choisit d’être illisible](https://www.huffingtonpost.fr/politique/video/russie-trump-ukraine-sur-l-international-le-rn-choisit-d-etre-illisible_247164.html)
 - [Le RN vote toujours plus en faveur des ultra riches](https://www.humanite.fr/politique/budget/avec-son-contre-budget-le-rn-brasse-de-lair-et-caline-les-riches)
+- [Le RN encore et toujours anti-IVG](https://www.ledauphine.com/politique/2024/06/21/le-rassemblement-national-et-l-ivg-un-revirement-et-des-divisions)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
@@ -39,6 +40,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le ténébreux héritage de Jean-Marie Le Pen : manoir, lingots d’or et reliques fascistes](https://www.lemonde.fr/m-le-mag/article/2025/03/07/manoir-lingots-d-or-et-reliques-fascistes-le-tenebreux-heritage-de-jean-marie-le-pen_6577091_4500055.html)
 - [Marine Le Pen en flagrant délit de mensonge sur son absence à la réunion sur l’Ukraine](https://www.huffingtonpost.fr/politique/article/marine-le-pen-en-flagrant-delit-de-mensonge-sur-son-absence-a-la-reunion-sur-l-ukraine_247185.html)
 - [La campagne présidentielle de Marine Le Pen financée par un prêt d'Orban](https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/02/marine-le-pen-a-obtenu-un-pret-de-10-6-millions-d-euros-d-une-banque-hongroise-pour-la-campagne-presidentielle_6112009_6059010.html)
+- [Jordan Bardella nie l’antisémitisme de Jean-Marie Le Pen et rediabolise le Rassemblement national](https://www.lemonde.fr/politique/article/2023/11/06/bardella-nie-l-antisemitisme-de-jean-marie-le-pen-et-rediabolise-le-rassemblement-national_6198584_823448.html)
 
 ---
 
@@ -86,6 +88,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le nouveau directeur général du RN et ses liens étroits avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html)
 - [Thierry Mariani et son soutien à la politique de Poutine](https://www.lemonde.fr/politique/article/2025/09/19/thierry-mariani-candidat-rn-en-liberte-sur-les-reseaux-russes_6641861_823448.html)
 - [Florent de Kersauson, conseiller régional RN, condamné pour cinq infractions financières, dont abus de confiance, faux et usages de faux](https://www.lemonde.fr/politique/article/2025/09/11/florent-de-kersauson-conseiller-regional-rn-condamne-pour-cinq-infractions-financieres-dont-abus-de-confiance-faux-et-usages-de-faux_6640421_823448.html)
+- [Le député RN Emmanuel Taché condamné à retirer « de la Pagerie » de son patronyme](https://www.lemonde.fr/politique/article/2025/09/13/le-depute-rn-emmanuel-tache-condamne-a-retirer-de-la-pagerie-de-son-patronyme_6640841_823448.html)
 ---
 
 ## L'histoire du parti
