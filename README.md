@@ -39,6 +39,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le ténébreux héritage de Jean-Marie Le Pen : manoir, lingots d’or et reliques fascistes](https://www.lemonde.fr/m-le-mag/article/2025/03/07/manoir-lingots-d-or-et-reliques-fascistes-le-tenebreux-heritage-de-jean-marie-le-pen_6577091_4500055.html)
 - [Marine Le Pen en flagrant délit de mensonge sur son absence à la réunion sur l’Ukraine](https://www.huffingtonpost.fr/politique/article/marine-le-pen-en-flagrant-delit-de-mensonge-sur-son-absence-a-la-reunion-sur-l-ukraine_247185.html)
 - [La campagne présidentielle de Marine Le Pen financée par un prêt d'Orban](https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/02/marine-le-pen-a-obtenu-un-pret-de-10-6-millions-d-euros-d-une-banque-hongroise-pour-la-campagne-presidentielle_6112009_6059010.html)
+- [Jordan Bardella nie l’antisémitisme de Jean-Marie Le Pen et rediabolise le Rassemblement national](https://www.lemonde.fr/politique/article/2023/11/06/bardella-nie-l-antisemitisme-de-jean-marie-le-pen-et-rediabolise-le-rassemblement-national_6198584_823448.html)
 
 ---
 
@@ -86,6 +87,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le nouveau directeur général du RN et ses liens étroits avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html)
 - [Thierry Mariani et son soutien à la politique de Poutine](https://www.lemonde.fr/politique/article/2025/09/19/thierry-mariani-candidat-rn-en-liberte-sur-les-reseaux-russes_6641861_823448.html)
 - [Florent de Kersauson, conseiller régional RN, condamné pour cinq infractions financières, dont abus de confiance, faux et usages de faux](https://www.lemonde.fr/politique/article/2025/09/11/florent-de-kersauson-conseiller-regional-rn-condamne-pour-cinq-infractions-financieres-dont-abus-de-confiance-faux-et-usages-de-faux_6640421_823448.html)
+- [Le député RN Emmanuel Taché condamné à retirer « de la Pagerie » de son patronyme](https://www.lemonde.fr/politique/article/2025/09/13/le-depute-rn-emmanuel-tache-condamne-a-retirer-de-la-pagerie-de-son-patronyme_6640841_823448.html)
 ---
 
 ## L'histoire du parti
@@ -99,6 +101,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 ## Leurs positions
 - [Le RN souhaitait supprimer l’Autorité de contrôle des nuisances aéroportuaires](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/aeroport-de-nantes/le-rn-souhaitait-supprimer-lautorite-de-controle-des-nuisances-aeroportuaires-une-honte-c530c30e-16d0-11f0-a8b3-a2145a0def9b)
 - [Le RN qui vote contre la notion de consentement dans la définition du viol](https://www.reddit.com/r/quefaitleRN/comments/1jpmaya/le_rn_qui_vote_contre_la_notion_de_consentement/)
+- [Le RN et ses positions anti IVG](https://www.ledauphine.com/politique/2024/06/21/le-rassemblement-national-et-l-ivg-un-revirement-et-des-divisions)
 
 ---
 
