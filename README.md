@@ -88,6 +88,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Thierry Mariani et son soutien à la politique de Poutine](https://www.lemonde.fr/politique/article/2025/09/19/thierry-mariani-candidat-rn-en-liberte-sur-les-reseaux-russes_6641861_823448.html)
 - [Florent de Kersauson, conseiller régional RN, condamné pour cinq infractions financières, dont abus de confiance, faux et usages de faux](https://www.lemonde.fr/politique/article/2025/09/11/florent-de-kersauson-conseiller-regional-rn-condamne-pour-cinq-infractions-financieres-dont-abus-de-confiance-faux-et-usages-de-faux_6640421_823448.html)
 - [Le député RN Emmanuel Taché condamné à retirer « de la Pagerie » de son patronyme](https://www.lemonde.fr/politique/article/2025/09/13/le-depute-rn-emmanuel-tache-condamne-a-retirer-de-la-pagerie-de-son-patronyme_6640841_823448.html)
+- [Le RN investit un condamné pour terrorisme aux municipales](https://www.huffingtonpost.fr/politique/article/municipales-2026-la-volte-face-spectaculaire-du-rn-qui-investit-en-corse-un-candidat-condamne-pour-terrorisme_257767.html)
 ---
 
 ## L'histoire du parti
