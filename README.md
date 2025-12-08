@@ -14,6 +14,7 @@
 - [L'antisémitisme au cœur du RN](https://www.france24.com/fr/france/20250325-voyage-jordan-bardella-israel-antisemitisme-rassemblement-national-extreme-droite?utm_slink=f24.my%2FB2fT) (*)
 - [Russie, Trump, Ukraine… Sur l'international, le RN choisit d’être illisible](https://www.huffingtonpost.fr/politique/video/russie-trump-ukraine-sur-l-international-le-rn-choisit-d-etre-illisible_247164.html)
 - [Le RN vote toujours plus en faveur des ultra riches](https://www.humanite.fr/politique/budget/avec-son-contre-budget-le-rn-brasse-de-lair-et-caline-les-riches)
+- [Une mairie RN censure un cinéma et force un film de propagande catholique](https://www.mediapart.fr/journal/politique/041225/bruay-la-buissiere-le-rn-detricote-la-culture-pour-mieux-la-controler)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
