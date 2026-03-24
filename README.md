@@ -15,6 +15,8 @@
 - [Russie, Trump, Ukraine… Sur l'international, le RN choisit d’être illisible](https://www.huffingtonpost.fr/politique/video/russie-trump-ukraine-sur-l-international-le-rn-choisit-d-etre-illisible_247164.html)
 - [Le RN vote toujours plus en faveur des ultra riches](https://www.humanite.fr/politique/budget/avec-son-contre-budget-le-rn-brasse-de-lair-et-caline-les-riches)
 - [Une mairie RN censure un cinéma et force un film de propagande catholique](https://www.mediapart.fr/journal/politique/041225/bruay-la-buissiere-le-rn-detricote-la-culture-pour-mieux-la-controler)
+- [Leurs accointances avec les impérialismes étrangers](https://www.mediapart.fr/journal/france/260226/lors-des-elections-les-ingerences-etrangeres-se-font-toujours-au-profit-du-rn) ~
+- [Le RN vote toujours contre le droit des femmes](https://bonpote.com/toutes-les-fois-ou-le-rn-a-vote-contre-les-droits-des-femmes/) ~
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
@@ -93,6 +95,16 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN investit un condamné pour terrorisme aux municipales](https://www.huffingtonpost.fr/politique/article/municipales-2026-la-volte-face-spectaculaire-du-rn-qui-investit-en-corse-un-candidat-condamne-pour-terrorisme_257767.html)
 - [Un empilement d'affaires force le vice président à démissionner](https://www.mediapart.fr/journal/politique/021225/cerne-par-les-affaires-david-rachline-demissionne-de-la-vice-presidence-du-rn)
 - [Le parti toujours autant lié à un groupuscule violent d'extrême droite](https://www.mediapart.fr/journal/politique/021225/l-eternel-retour-de-la-gud-connection-dans-les-affaires-du-rn)
+- [Racisme, antisémitisme, sexisme, homophobie : le RN n’a toujours pas fait le ménage dans ses rangs](https://www.mediapart.fr/journal/politique/190326/racisme-antisemitisme-sexisme-homophobie-le-rn-n-toujours-pas-fait-le-menage-dans-ses-rangs?at_format=link&at_account=mediapart.fr) ~
+- [Fabrice Leggeri, ex-directeur de Frontex et eurodéputé RN, visé par une enquête pour complicité de crimes contre l’humanité](https://www.lemonde.fr/societe/article/2026/03/24/fabrice-leggeri-ex-directeur-de-frontex-et-eurodepute-rn-vise-par-une-enquete-pour-complicite-de-crimes-contre-l-humanite_6674028_3224.html) ~
+- [Municipales 2026 : Il avait assassiné un homme en 2005 et se retrouve comme colistier d’un candidat RN en Corse](https://www.ladepeche.fr/2026/03/05/municipales-2026-il-avait-assassine-un-homme-en-2005-et-se-retrouve-comme-colistier-dun-candidat-rn-en-corse-13257033.php) ~
+- [Une néo-fasciste dans le parti](https://www.youtube.com/shorts/DSeNXyEJjZk)
+- [Deux membres du RN condamnés à 5 ans d'inéligibilité](https://www.lemonde.fr/societe/article/2026/01/26/le-maire-d-orange-yann-bompard-et-la-deputee-rn-marie-france-lorho-condamnes-a-cinq-ans-d-ineligibilite_6664128_3224.html) ~
+- [Un député RN tente d'annuler un festival de musique parce qu'il y a "Trans" dans le nom](https://www.huffingtonpost.fr/politique/article/le-depute-rn-matthias-renault-verse-dans-le-ridicule-en-essayant-d-attaquer-les-transmusicales_259200.html) ~
+- [6 élus RN dont 3 députés membres d’un groupe Facebook raciste et islamophobe](https://www.humanite.fr/politique/antisemitisme/6-elus-rn-dont-3-deputes-membres-dun-groupe-facebook-raciste-et-islamophobe-revele-les-jours) ~
+- [Le RN soutient un candidat condamné pour tentative d'attentat](https://www.reddit.com/r/france/comments/1p8z96f/municipales_2026_%C3%A0_bastia_le_rn_soutient_un/) ~
+- [Un attaché parlementaire RN derrière un compte néofasciste appelant à la chute de la république](https://www.streetpress.com/sujet/1762957568-attache-parlementaire-rn-derriere-compte-neofasciste-chute-republique-conservateurpunk-renaudcamus-charlesmaurras-jeaneudeslemoulec-antoinevilledieu-reseauxsociaux)
+- [Le directeur général du RN et ses liens avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html) ~
 ---
 
 ## L'histoire du parti
@@ -107,6 +119,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN souhaitait supprimer l’Autorité de contrôle des nuisances aéroportuaires](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/aeroport-de-nantes/le-rn-souhaitait-supprimer-lautorite-de-controle-des-nuisances-aeroportuaires-une-honte-c530c30e-16d0-11f0-a8b3-a2145a0def9b)
 - [Le RN qui vote contre la notion de consentement dans la définition du viol](https://www.reddit.com/r/quefaitleRN/comments/1jpmaya/le_rn_qui_vote_contre_la_notion_de_consentement/)
 - [Le RN et ses positions anti IVG](https://www.ledauphine.com/politique/2024/06/21/le-rassemblement-national-et-l-ivg-un-revirement-et-des-divisions)
+- [Le RN est ouvertement Trumpiste](https://www.lemonde.fr/politique/article/2026/01/18/au-rn-une-attraction-inavouee-pour-le-trumpisme-et-un-alignement-ideologique-progressif_6663002_823448.html) ~
 
 ---
 
@@ -116,3 +129,6 @@ Ci-dessous, plus des regroupements d'infos/décryptages que des articles factuel
 - [Site regroupant les dérapages des membres du RN](https://airdehaine.fr/)
 - [Le RN n'est pas le parti des pauvres et des travailleurs (Reportage Blast)](https://www.youtube.com/watch?app=desktop&v=H1d8SKRYB5o)
 - [Une appli recense les casseroles des députés RN](https://lesjours.fr/obsessions/rn-derniere-marche-2/ep5-appli-casseroles-deputes-rn/)
+- [Le RN se sert de la mort d'un néonazi pour essayer de se banaliser](https://www.liberation.fr/politique/apres-la-mort-de-quentin-deranque-le-rn-en-operation-banalisation-20260218_44BOHU4Z45E57BICCE3C5PPRN4/) ~
+- [Le RN réinvestit ses "brebis galeuses" de 2024 aux municipales de 2026 après avoir certifié s'en être débarassé](https://www.mediapart.fr/journal/politique/151225/municipales-2026-le-rn-reinvestit-ses-brebis-galeuses?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5)
+- [Le RN et ses liens avec des dossiers terroristes](https://www.mediapart.fr/journal/france/011025/l-ombre-du-rn-plane-sur-des-dossiers-terroristes)
