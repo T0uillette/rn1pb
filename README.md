@@ -107,6 +107,25 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le directeur général du RN et ses liens avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html) ~
 ---
 
+## Leurs votes à l'assemblée
+- [Le RN a voté contre la limitation de l'opposition au cadmium](https://www.franceinfo.fr/sante/l-assemblee-nationale-adopte-en-premiere-lecture-un-texte-pour-limiter-l-exposition-au-cadmium-un-metal-lourd-toxique_8043767.html) ~
+- [Le RN s'oppose à la taxation des ultra-riches](https://lcp.fr/actualites/patrimoine-des-ultra-riches-le-principe-d-un-impot-plancher-de-2-approuve-en-commission) ~
+- [Le RN vote contre la réintroduction de la tax Zuckman](https://www.rtl.fr/actu/politique/budget-2026-la-taxe-zucman-rejetee-par-les-deputes-a-l-assemblee-nationale-7900560620) ~
+- [Le RN défend la niche Airbnb](https://www.lemonde.fr/politique/article/2024/06/27/le-rn-a-l-assemblee-deux-ans-de-defense-des-proprietaires-des-menages-aises-et-des-grandes-entreprises_6244418_823448.html) ~
+- [Le RN défend les propiétaires aisés contre les locataires](https://www.lemonde.fr/politique/article/2024/06/27/le-rn-a-l-assemblee-deux-ans-de-defense-des-proprietaires-des-menages-aises-et-des-grandes-entreprises_6244418_823448.html) ~
+- [Le RN défend les gros héritages](https://archive.ph/2025.12.26-233356/https%3A/www.humanite.fr/politique/assemblee-nationale/de-la-france-qui-travaille-aux-grands-patrons-malgre-ses-discours-populistes-le-rn-protege-les-avantages-fiscaux-des-plus-riches) ~
+- [Le RN vote pour plus de surveillance et moins de liberté individuelle](https://www.bfmtv.com/tech/intelligence-artificielle/l-assemblee-nationale-valide-le-recours-controverse-a-la-videosurveillance-algorithmique_AD-202303230433.html?utm_source=chatgpt.com) ~
+- [Le RN vote pour plus de surveillance et moins de liberté individuelle dans les transports](https://lcp.fr/actualites/videosurveillance-algorithmique-taser-l-assemblee-nationale-muscle-la-proposition-de-loi?utm_source=chatgpt.com) ~
+- [Le RN contre la hausse du SMIC](https://datan.fr/votes/legislature-16/vote_44) ~
+- [Le RN vote pour la destruction de l'assurance chômage](https://www.lemonde.fr/politique/article/2022/10/06/assurance-chomage-les-deputes-durcissent-le-projet-de-reforme-mene-par-le-gouvernement_6144612_823448.html) ~
+- [Le RN vote contre le gel des loyers](https://www.bfmtv.com/politique/parlement/loyers-renaissance-et-le-rn-votent-contre-le-gel-proposee-par-la-nupes-et-prolongent-le-plafonnement-de-la-hausse_AD-202306010090.html) ~
+- [Le RN contre le retour de l'ISF](https://datan.fr/votes/legislature-16/vote_325) ~
+- [Le RN contre l'interdiction des vols en jet privé](https://datan.fr/votes/legislature-16/vote_1403) ~
+- [Le RN vote contre la lutte contre les déserts médicaux](https://datan.fr/votes/legislature-16/vote_1812) ~
+- [Le RN vote contre un service public de la petite enfance](https://datan.fr/votes/legislature-16/vote_2624) ~
+- [Le RN vote pour la privatisation de la RATP](https://datan.fr/votes/legislature-16/vote_3205) ~
+- [Le RN vote contre la lutte contre la fraude fiscale](https://datan.fr/votes/legislature-16/vote_2857) ~
+
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
 - [Jean-Marie Le Pen dit que les chambres à gaz sont un point de détail de l'histoire](https://www.ina.fr/ina-eclaire-actu/video/cab87032378/jean-marie-le-pen-les-chambres-a-gaz-sont-un-point-de-detail-de-l-histoire)
