@@ -125,6 +125,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN vote contre un service public de la petite enfance](https://datan.fr/votes/legislature-16/vote_2624) ~
 - [Le RN vote pour la privatisation de la RATP](https://datan.fr/votes/legislature-16/vote_3205) ~
 - [Le RN vote contre la lutte contre la fraude fiscale](https://datan.fr/votes/legislature-16/vote_2857) ~
+- [Le RN vote contre la recherche pour le cancer et autres maladies de l'enfant](https://www.assemblee-nationale.fr/dyn/17/scrutins/6572w)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
