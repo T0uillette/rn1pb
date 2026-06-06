@@ -106,6 +106,9 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN soutient un candidat condamné pour tentative d'attentat](https://www.reddit.com/r/france/comments/1p8z96f/municipales_2026_%C3%A0_bastia_le_rn_soutient_un/) ~
 - [Un attaché parlementaire RN derrière un compte néofasciste appelant à la chute de la république](https://www.streetpress.com/sujet/1762957568-attache-parlementaire-rn-derriere-compte-neofasciste-chute-republique-conservateurpunk-renaudcamus-charlesmaurras-jeaneudeslemoulec-antoinevilledieu-reseauxsociaux)
 - [Le directeur général du RN et ses liens avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html) ~
+- [Un maire RN supprime les suventions allouées au planning familial](https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/carpentras/a-carpentras-le-maire-rn-decider-de-supprimer-la-subvention-allouee-au-planning-familial-3771264) ~
+- [Des députés RN défendent une école catholique intégriste pour filles, proche de mouvements pétainistes](https://www.streetpress.com/1780577162--deputes-rn-defendent-ecole-catholique-integriste-filles-proche-mouvements-petainistes-mysogine-petainistes-catholique-integriste/) ~
+- 
 ---
 
 ## Leurs votes à l'assemblée
@@ -153,3 +156,4 @@ Ci-dessous, plus des regroupements d'infos/décryptages que des articles factuel
 - [Le RN se sert de la mort d'un néonazi pour essayer de se banaliser](https://www.liberation.fr/politique/apres-la-mort-de-quentin-deranque-le-rn-en-operation-banalisation-20260218_44BOHU4Z45E57BICCE3C5PPRN4/) ~
 - [Le RN réinvestit ses "brebis galeuses" de 2024 aux municipales de 2026 après avoir certifié s'en être débarassé](https://www.mediapart.fr/journal/politique/151225/municipales-2026-le-rn-reinvestit-ses-brebis-galeuses?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5)
 - [Le RN et ses liens avec des dossiers terroristes](https://www.mediapart.fr/journal/france/011025/l-ombre-du-rn-plane-sur-des-dossiers-terroristes)
+- [Le Rassemblement National, pire parti pour la souveraineté énergétique](https://bonpote.com/le-rassemblement-national-pire-parti-pour-la-souverainete-energetique/) ~
