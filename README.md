@@ -108,7 +108,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le directeur général du RN et ses liens avec la Russie](https://www.lemonde.fr/politique/article/2025/10/22/les-reseaux-russes-de-patrice-hubert-nouveau-directeur-general-du-rassemblement-national_6648815_823448.html) ~
 - [Un maire RN supprime les suventions allouées au planning familial](https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/carpentras/a-carpentras-le-maire-rn-decider-de-supprimer-la-subvention-allouee-au-planning-familial-3771264) ~
 - [Des députés RN défendent une école catholique intégriste pour filles, proche de mouvements pétainistes](https://www.streetpress.com/1780577162--deputes-rn-defendent-ecole-catholique-integriste-filles-proche-mouvements-petainistes-mysogine-petainistes-catholique-integriste/) ~
-- 
+- [Un eurodéputé RN visé par une enquête pour complicité de crimes contre l’humanité](https://www.lemonde.fr/societe/article/2026/03/24/fabrice-leggeri-ex-directeur-de-frontex-et-eurodepute-rn-vise-par-une-enquete-pour-complicite-de-crimes-contre-l-humanite_6674028_3224.html) ~
 ---
 
 ## Leurs votes à l'assemblée
