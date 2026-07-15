@@ -112,8 +112,9 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Les militants RN et leurs menaces de morts à caractère antisémite](https://linsoumission.fr/2026/07/13/antisemitisme-rn-contre-lfi/)
 - ["Qu'ils retournent Afrique ! " , Carlos Bilongo interrompu par une une invective raciste du député RN Grégoire de Fournas](https://youtu.be/qK6qvuqEv4k)
 - [Julien Odoul stigmatise un citoyen sur sa tenue pour le comparer à un terroriste (1h02)](https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-le-forum-bfmtv-crise-politique-les-francais-a-bout_VN-202510071003.html)
-- [Il faut s’attaquer au réchauffement islamiste plutôt qu’à la canicule ! (Julien Odoul)](https://www.tf1info.fr/politique/video-canicule-2019-le-gouvernement-en-fait-beaucoup-trop-selon-julien-odoul-rn-2125135.html) ; extrait complet : (https://www.facebook.com/L.insoumission/videos/-il-faut-sattaquer-au-r%C3%A9chauffement-islamiste-plut%C3%B4t-qu%C3%A0-la-canicule-en-2019-le-/1513133593824985/)
-- [Thomas Ménagé revient sur ses propos "les experts du GIEC ont parfois tendance à exagérer" (2023): https://youtu.be/-R285QRBYtw" ; sur BFMTV (2026 ; 0:30)](https://www.bfmtv.com/politique/video-forum-bfmtv-thomas-menage-rn-ce-n-est-pas-le-rassemblement-national-qui-est-responsable-du-rechauffement-climatique_VN-202606240894.html)
+- [Il faut s’attaquer au réchauffement islamiste plutôt qu’à la canicule ! (Julien Odoul)](https://www.facebook.com/L.insoumission/videos/-il-faut-sattaquer-au-r%C3%A9chauffement-islamiste-plut%C3%B4t-qu%C3%A0-la-canicule-en-2019-le-/1513133593824985/)
+- [Thomas Ménagé : "les experts du GIEC ont parfois tendance à exagérer" (2023):] (https://youtu.be/-R285QRBYtw)
+- [Thoma Ménagé revient sur ses propos portant sur le GIEC] (https://www.bfmtv.com/politique/video-forum-bfmtv-thomas-menage-rn-ce-n-est-pas-le-rassemblement-national-qui-est-responsable-du-rechauffement-climatique_VN-202606240894.html)
 
 
 ---
