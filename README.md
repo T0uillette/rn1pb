@@ -132,6 +132,8 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN vote pour la privatisation de la RATP](https://datan.fr/votes/legislature-16/vote_3205) ~
 - [Le RN vote contre la lutte contre la fraude fiscale](https://datan.fr/votes/legislature-16/vote_2857) ~
 - [Le RN vote contre la recherche pour le cancer et autres maladies de l'enfant](https://www.assemblee-nationale.fr/dyn/17/scrutins/6572w)
+- [Le RN à voté pour la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre](https://www.assemblee-nationale.fr/dyn/17/scrutins/7987#groupeRN)
+- [Le RN à voté contre la proposition de loi relative au droit à l'aide à mourir](https://www.assemblee-nationale.fr/dyn/17/scrutins/7894)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
