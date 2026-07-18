@@ -55,7 +55,6 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Les faux documents de Bardella](https://www.liberation.fr/politique/assistants-fictifs-du-rassemblement-national-les-faux-documents-de-jordan-bardella-20240909_5IHPRZRD7NAORD7PNHD5UHJAIA/)
 - [Intimidations face à des féministes](https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/)
 - [Le RN oblige ses candidats à acheter du matériel produit par des amis de Marine Le Pen](https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/)
-- [La propagande, la vérité illusoire sur l'innocence de Marine Le Pen dans l'affaire des fonds publics du parlement européen (L'esprit critique)](https://www.youtube.com/shorts/tsXvNvMdeMY)
 
 ---
 
