@@ -45,7 +45,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [La campagne présidentielle de Marine Le Pen financée par un prêt d'Orban](https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/02/marine-le-pen-a-obtenu-un-pret-de-10-6-millions-d-euros-d-une-banque-hongroise-pour-la-campagne-presidentielle_6112009_6059010.html)
 - [Jordan Bardella nie l’antisémitisme de Jean-Marie Le Pen et rediabolise le Rassemblement national](https://www.lemonde.fr/politique/article/2023/11/06/bardella-nie-l-antisemitisme-de-jean-marie-le-pen-et-rediabolise-le-rassemblement-national_6198584_823448.html)
 - [Marine Le Pen définitivement condamnée pour diffamation envers la Cimade, association d'aide au migrants](https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html)
-- [Elon Musk - ce soutien qui embarrasse le RN (L'Humanité)](https://www.youtube.com/shorts/Ns7MmngX8zI)
+- [Elon Musk - ce soutien qui embarrasse le RN (L'Humanité)](https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn)
 
 ---
 
