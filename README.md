@@ -45,6 +45,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [La campagne présidentielle de Marine Le Pen financée par un prêt d'Orban](https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/02/marine-le-pen-a-obtenu-un-pret-de-10-6-millions-d-euros-d-une-banque-hongroise-pour-la-campagne-presidentielle_6112009_6059010.html)
 - [Jordan Bardella nie l’antisémitisme de Jean-Marie Le Pen et rediabolise le Rassemblement national](https://www.lemonde.fr/politique/article/2023/11/06/bardella-nie-l-antisemitisme-de-jean-marie-le-pen-et-rediabolise-le-rassemblement-national_6198584_823448.html)
 - [Marine Le Pen définitivement condamnée pour diffamation envers la Cimade, association d'aide au migrants](https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html)
+- [Elon Musk - ce soutien qui embarrasse le RN (L'Humanité)](https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn)
 
 ---
 
@@ -54,6 +55,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Les faux documents de Bardella](https://www.liberation.fr/politique/assistants-fictifs-du-rassemblement-national-les-faux-documents-de-jordan-bardella-20240909_5IHPRZRD7NAORD7PNHD5UHJAIA/)
 - [Intimidations face à des féministes](https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/)
 - [Le RN oblige ses candidats à acheter du matériel produit par des amis de Marine Le Pen](https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/)
+- [La propagande, la vérité illusoire sur l'innocence de Marine Le Pen dans l'affaire des fonds publics du parlement européen (L'esprit critique)](https://www.youtube.com/shorts/tsXvNvMdeMY)
 
 ---
 
