@@ -26,7 +26,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 ## Les cadres
 - [Infographie édifiante sur les liens des cadres du parti](https://x.com/YazuWok/status/1802666323937210674)
 - ["Villes futures" : une cartographie recensant les 154 brebis galeuses du National](https://villesfutures.bonpote.com)
-- [Villes futures sous forme d'infograpphie](https://bonpote.com/229-brebis-galeuses-bon-pote-a-liste-les-candidats-problematiques-des-municipales-2026/)
+- [Municipales 2026 : Villes futures sous forme d'infographie](https://bonpote.com/229-brebis-galeuses-bon-pote-a-liste-les-candidats-problematiques-des-municipales-2026/)
 - [Marine Le Pen s'affiche avec des suprémacistes blancs européens](https://www.liberation.fr/les-idees/2019/05/16/photo-de-marine-le-pen-avec-des-supremacistes-blancs-en-estonie-elle-ne-pouvait-pas-ne-pas-savoir_1727185/)
 - [30 prises de position de Marine Le Pen assez douteuses](https://www.radiofrance.fr/franceinter/marine-le-pen-est-elle-d-extreme-droite-voici-30-de-ses-prises-de-position-qui-ne-laissent-aucun-doute-9586630)
 - [Des militants néonazis et néofascistes dans le meeting de Bardella](https://www.liberation.fr/politique/des-neonazis-chez-jordan-bardella-qui-en-parle-20240407_PPQAUELYENHJVHJQOAUU2EE23A/)
