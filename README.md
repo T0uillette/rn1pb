@@ -25,8 +25,6 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
 ## Les cadres
 - [Infographie édifiante sur les liens des cadres du parti](https://x.com/YazuWok/status/1802666323937210674)
-- ["Villes futures" : une cartographie recensant les 154 brebis galeuses du National](https://villesfutures.bonpote.com)
-- [Municipales 2026 : Villes futures sous forme d'infographie](https://bonpote.com/229-brebis-galeuses-bon-pote-a-liste-les-candidats-problematiques-des-municipales-2026/)
 - [Marine Le Pen s'affiche avec des suprémacistes blancs européens](https://www.liberation.fr/les-idees/2019/05/16/photo-de-marine-le-pen-avec-des-supremacistes-blancs-en-estonie-elle-ne-pouvait-pas-ne-pas-savoir_1727185/)
 - [30 prises de position de Marine Le Pen assez douteuses](https://www.radiofrance.fr/franceinter/marine-le-pen-est-elle-d-extreme-droite-voici-30-de-ses-prises-de-position-qui-ne-laissent-aucun-doute-9586630)
 - [Des militants néonazis et néofascistes dans le meeting de Bardella](https://www.liberation.fr/politique/des-neonazis-chez-jordan-bardella-qui-en-parle-20240407_PPQAUELYENHJVHJQOAUU2EE23A/)
@@ -171,3 +169,5 @@ Ci-dessous, plus des regroupements d'infos/décryptages que des articles factuel
 - [Le RN réinvestit ses "brebis galeuses" de 2024 aux municipales de 2026 après avoir certifié s'en être débarassé](https://www.mediapart.fr/journal/politique/151225/municipales-2026-le-rn-reinvestit-ses-brebis-galeuses?utm_source=global&utm_medium=social&utm_campaign=SharingApp&xtor=CS3-5)
 - [Le RN et ses liens avec des dossiers terroristes](https://www.mediapart.fr/journal/france/011025/l-ombre-du-rn-plane-sur-des-dossiers-terroristes)
 - [Le Rassemblement National, pire parti pour la souveraineté énergétique](https://bonpote.com/le-rassemblement-national-pire-parti-pour-la-souverainete-energetique/) ~
+- ["Villes futures" : une cartographie recensant les 154 brebis galeuses du National](https://villesfutures.bonpote.com)
+- [Municipales 2026 : Villes futures sous forme d'infographie](https://bonpote.com/229-brebis-galeuses-bon-pote-a-liste-les-candidats-problematiques-des-municipales-2026/)
