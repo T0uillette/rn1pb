@@ -141,6 +141,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN vote contre la recherche pour le cancer et autres maladies de l'enfant](https://www.assemblee-nationale.fr/dyn/17/scrutins/6572w)
 - [Le RN à voté pour la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre](https://www.assemblee-nationale.fr/dyn/17/scrutins/7987#groupeRN)
 - [Le RN à voté contre la proposition de loi relative au droit à l'aide à mourir](https://www.assemblee-nationale.fr/dyn/17/scrutins/7894)
+- [Le RN à voté pour loi urgence agricole qui réautorise de l'acétamipride](https://www.assemblee-nationale.fr/dyn/17/scrutins/8427)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
