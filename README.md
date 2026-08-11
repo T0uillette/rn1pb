@@ -116,7 +116,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Il faut s’attaquer au réchauffement islamiste plutôt qu’à la canicule ! (Julien Odoul)](https://www.facebook.com/L.insoumission/videos/-il-faut-sattaquer-au-r%C3%A9chauffement-islamiste-plut%C3%B4t-qu%C3%A0-la-canicule-en-2019-le-/1513133593824985/)
 - [Thomas Ménagé : "les experts du GIEC ont parfois tendance à exagérer" (2023):](https://youtu.be/-R285QRBYtw)
 - [Thomas Ménagé revient sur ses propos portant sur le GIEC](https://www.bfmtv.com/politique/video-forum-bfmtv-thomas-menage-rn-ce-n-est-pas-le-rassemblement-national-qui-est-responsable-du-rechauffement-climatique_VN-202606240894.html)
-
+- [Un maire RN fait une campagne d'affiches racistes IA](https://www.mediapart.fr/journal/politique/110826/affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-touristique)
 
 ---
 
