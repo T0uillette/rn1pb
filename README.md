@@ -120,6 +120,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Thomas Ménagé : "les experts du GIEC ont parfois tendance à exagérer" (2023):](https://youtu.be/-R285QRBYtw)
 - [Thomas Ménagé revient sur ses propos portant sur le GIEC](https://www.bfmtv.com/politique/video-forum-bfmtv-thomas-menage-rn-ce-n-est-pas-le-rassemblement-national-qui-est-responsable-du-rechauffement-climatique_VN-202606240894.html) [[A]](https://www.bfmtv.com/politique/video-forum-bfmtv-thomas-menage-rn-ce-n-est-pas-le-rassemblement-national-qui-est-responsable-du-rechauffement-climatique_VN-202606240894.html)
 - [Un maire RN fait une campagne d'affiches racistes IA](https://www.mediapart.fr/journal/politique/110826/affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-touristique) [[A]](https://web.archive.org/web/20260811091504/https://www.mediapart.fr/journal/politique/110826/affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-touristique)
+- [À Cagnes-sur-Mer, l’élu RN Ugo Massi agresse une journaliste de Nice-Matin qui enquêtait sur les activités de son père](https://www.humanite.fr/politique/extreme-droite/a-cagnes-sur-mer-lelu-rn-ugo-massi-agresse-une-journaliste-de-nice-matin-qui-enquetait-sur-les-activites-de-son-pere) [[A]](https://web.archive.org/web/20260811103233/https://www.humanite.fr/politique/extreme-droite/a-cagnes-sur-mer-lelu-rn-ugo-massi-agresse-une-journaliste-de-nice-matin-qui-enquetait-sur-les-activites-de-son-pere) ~
 
 ---
 
