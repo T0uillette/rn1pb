@@ -122,7 +122,8 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Un maire RN fait une campagne d'affiches racistes IA](https://www.mediapart.fr/journal/politique/110826/affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-touristique) [[A]](https://web.archive.org/web/20260811091504/https://www.mediapart.fr/journal/politique/110826/affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-touristique)
 - [L'affiche en question (image mediapart)](https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-sur-le-volet-du-tourisme.jpg)[[A]](https://web.archive.org/web/20260811093719/https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-sur-le-volet-du-tourisme.jpg)
 - [À Cagnes-sur-Mer, l’élu RN Ugo Massi agresse une journaliste de Nice-Matin qui enquêtait sur les activités de son père](https://www.humanite.fr/politique/extreme-droite/a-cagnes-sur-mer-lelu-rn-ugo-massi-agresse-une-journaliste-de-nice-matin-qui-enquetait-sur-les-activites-de-son-pere)[[A]](https://web.archive.org/web/20260811103233/https://www.humanite.fr/politique/extreme-droite/a-cagnes-sur-mer-lelu-rn-ugo-massi-agresse-une-journaliste-de-nice-matin-qui-enquetait-sur-les-activites-de-son-pere)
-- [La corruption de mineurs c'est "des lubies de journalistes d'extrême gauche"](https://www.facebook.com/reel/1593074715319796)
+- [La corruption de mineurs c'est "des lubies de journalistes d'extrême gauche](https://www.mediapart.fr/journal/politique/220126/sur-cnews-le-boycott-de-jean-marc-morandini-s-etend-partout-sauf-au-rn)
+    - [Explication vidéo (Réel Facebook)](https://www.facebook.com/reel/1593074715319796)
 
 
 ---
