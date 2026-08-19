@@ -122,6 +122,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
     - [L'affiche en question (image Médiapart)](https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-sur-le-volet-du-tourisme.jpg) [[A]](https://web.archive.org/web/20260811093719/https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-affiches-racistes-et-traditions-retrouvees-agde-le-maire-rn-imprime-sa-marque-sur-le-volet-du-tourisme.jpg)
 - [La corruption de mineurs c'est "des lubies de journalistes d'extrême gauche"](https://www.mediapart.fr/journal/politique/220126/sur-cnews-le-boycott-de-jean-marc-morandini-s-etend-partout-sauf-au-rn) [[A]](https://web.archive.org/web/20260811132318/https://www.mediapart.fr/journal/politique/220126/sur-cnews-le-boycott-de-jean-marc-morandini-s-etend-partout-sauf-au-rn)
     - [Explication vidéo (Réel Facebook)](https://www.facebook.com/reel/1593074715319796)
+- [Un député Européen RN contre plus de contribution des retraités aisés](https://www.bfmtv.com/politique/video-contribution-des-retraites-aises-pour-le-prochain-budget-c-est-indecent-estime-aleksandar-nikolic-rn_VN-202608180599.html) [[A]](https://web.archive.org/web/20260819/https://www.bfmtv.com/politique/video-contribution-des-retraites-aises-pour-le-prochain-budget-c-est-indecent-estime-aleksandar-nikolic-rn_VN-202608180599.html)
 
 
 ---
