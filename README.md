@@ -21,6 +21,7 @@ _nouveauté : Archivage ! Les pages webs ne sont peut-être pas éternelles donc
 - [Une mairie RN censure un cinéma et force un film de propagande catholique](https://www.mediapart.fr/journal/politique/041225/bruay-la-buissiere-le-rn-detricote-la-culture-pour-mieux-la-controler) [[A]](https://archive.ph/ovmZA)
 - [Leurs accointances avec les impérialismes étrangers](https://www.mediapart.fr/journal/france/260226/lors-des-elections-les-ingerences-etrangeres-se-font-toujours-au-profit-du-rn) ~ [[A]](https://web.archive.org/web/20260423010929/https://www.mediapart.fr/journal/france/260226/lors-des-elections-les-ingerences-etrangeres-se-font-toujours-au-profit-du-rn)
 - [Le RN vote toujours contre le droit des femmes](https://bonpote.com/toutes-les-fois-ou-le-rn-a-vote-contre-les-droits-des-femmes/) ~ [[A]](https://web.archive.org/web/20260811101523/https://bonpote.com/toutes-les-fois-ou-le-rn-a-vote-contre-les-droits-des-femmes/)
+- [L'âge de la retraite toujours plus loin pour le RN](https://fr.finance.yahoo.com/actualites/42-annuit%C3%A9s-rn-avance-programme-052323104.html) [[A]](https://web.archive.org/web/20260821074640/https://fr.finance.yahoo.com/actualites/42-annuit%C3%A9s-rn-avance-programme-052323104.html)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
