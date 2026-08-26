@@ -126,6 +126,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
     - [Explication vidéo (Réel Facebook)](https://www.facebook.com/reel/1593074715319796)
 - [Un député Européen RN contre plus de contribution des retraités aisés](https://www.bfmtv.com/politique/video-contribution-des-retraites-aises-pour-le-prochain-budget-c-est-indecent-estime-aleksandar-nikolic-rn_VN-202608180599.html) [[A]](https://web.archive.org/web/20260819/https://www.bfmtv.com/politique/video-contribution-des-retraites-aises-pour-le-prochain-budget-c-est-indecent-estime-aleksandar-nikolic-rn_VN-202608180599.html)
 - [Allisio propose de lutter contre les incendies en ... supprimant les agences pour l'environnement](https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/lutte-contre-les-incendies-le-rn-maintient-sa-volonte-de-supprimer-toutes-les-agences-qui-coutent-beaucoup-plus-que-ce-qu-elles-rapportent_8154644.html) [[A]](https://web.archive.org/web/20260820092904/https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/lutte-contre-les-incendies-le-rn-maintient-sa-volonte-de-supprimer-toutes-les-agences-qui-coutent-beaucoup-plus-que-ce-qu-elles-rapportent_8154644.html)
+- [Un député RN en cause dans des fraudes en tout genre avec ses assistants](https://www.lecanardenchaine.fr/politique/54716-un-depute-rn-joue-a-cash-cash-avec-ses-assistants-parlementaires) [[A]](https://archive.ph/ocZ92)
 
 
 ---
