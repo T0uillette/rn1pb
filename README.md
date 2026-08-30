@@ -25,6 +25,7 @@ _nouveauté : Archivage ! Les pages webs ne sont peut-être pas éternelles donc
 - [Un projet raciste : Le RN souhaite changer la constitution pour y rajouter la préférence nationale via un référendum](https://www.lemonde.fr/politique/article/2026/08/17/presidentielle-2027-le-referendum-constitutionnel-de-marine-le-pen-un-coup-d-etat-sur-le-fond-et-sur-la-forme_6747963_823448.html) [[A]](https://archive.ph/RGkBT)
 - [Le RN souhaite encore plus détaxer les grands héritages](https://rmc.bfmtv.com/actualites/economie/taxes-sur-les-heritages-le-rn-y-voit-un-impot-immoral-et-compte-augmenter-l-abattement-de-100-000_AV-202608270216.html) [[A]](https://web.archive.org/web/20260827105844/https://rmc.bfmtv.com/actualites/economie/taxes-sur-les-heritages-le-rn-y-voit-un-impot-immoral-et-compte-augmenter-l-abattement-de-100-000_AV-202608270216.html)
 - [Le RN est l'ennemi de la culture](https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cagnes-sur-mer/c-est-fait-de-maniere-brutale-cette-mairie-rn-arrete-de-soutenir-un-collectif-d-artistes-sa-politique-culturelle-fait-debat-3407288.html) [[A]](https://archive.ph/j264t)
+- [Le RN veut faire payer une amende aux personnes portant le voile](https://www.20minutes.fr/politique/4241714-20260830-rn-veut-sanctionner-port-voile-amende-comme-ceinture-securite) [[A]](https://archive.ph/m26fL)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
