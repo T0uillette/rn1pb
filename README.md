@@ -54,6 +54,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Marine Le Pen définitivement condamnée pour diffamation envers la Cimade, association d'aide au migrants](https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html) [[A]](https://web.archive.org/web/20260712084607/https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html)
 - [Elon Musk - ce soutien qui embarrasse le RN (L'Humanité)](https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn) [[A]](https://web.archive.org/web/20260717030932/https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn)
 - [Julien Odoul qui défend un violeur et blâme les victimes](https://www.nouvelobs.com/politique/20260828.OBS117742/les-propos-de-julien-odoul-sur-cnews-a-propos-de-l-affaire-bruel-et-de-la-femme-toujours-victime-suscitent-un-tolle.html) [[A]](https://archive.ph/MsTIK)
+- [« Juif qui parle, bouche qui ment » : Louis-Joseph Pecher, le candidat antisémite de Ciotti et du RN](https://www.streetpress.com/1718813377-louis-joseph-pecher-ciotti-juif-antisemite-racisme-sexisme-homophobe-candidat-rassemblement-national-rn-bardella/)[[A]](http://archive.today/RBDAj)
 
 ---
 
