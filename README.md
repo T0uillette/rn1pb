@@ -137,6 +137,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Un député RN en cause dans des fraudes en tout genre avec ses assistants](https://www.lecanardenchaine.fr/politique/54716-un-depute-rn-joue-a-cash-cash-avec-ses-assistants-parlementaires) [[A]](https://archive.ph/ocZ92)
 - [Un maire RN supprime les navettes scolaires](https://www.20minutes.fr/societe/4241484-20260829-hayange-municipalite-rn-supprime-navettes-scolaires-quelques-semaines-rentree) [[A]](https://archive.ph/lr4do)
 - [« Juif qui parle, bouche qui ment » : Louis-Joseph Pecher, le candidat antisémite de Ciotti et du RN](https://www.streetpress.com/1718813377-louis-joseph-pecher-ciotti-juif-antisemite-racisme-sexisme-homophobe-candidat-rassemblement-national-rn-bardella/) [[A]](http://archive.today/RBDAj)
+- [https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/](https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/) [[A]](https://web.archive.org/web/20260901144331/https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/)
 
 ---
 
