@@ -1,6 +1,7 @@
 # LE RN 1 PB ?
 
-_nouveauté : Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages articles qui ont été enregistrés et archivés auront un signe [A] cliquable pour consulter l'archive associée_
+_Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages articles qui ont été enregistrées et archivées ont désormais in signe [A] cliquable pour consulter l'archive associée_
+_nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en poster d'autres en direct, les articles pertinents iront rejoindre ce document._
 
 ## Leur projet
 - [Un candidat RN veut "mettre au pas le Conseil constitutionnel"](https://xcancel.com/MarionVanR/status/1801338828860342492) [[A]](https://archive.ph/pll2d) (*)
@@ -54,6 +55,8 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Marine Le Pen définitivement condamnée pour diffamation envers la Cimade, association d'aide au migrants](https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html) [[A]](https://web.archive.org/web/20260712084607/https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html)
 - [Elon Musk - ce soutien qui embarrasse le RN (L'Humanité)](https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn) [[A]](https://web.archive.org/web/20260717030932/https://www.humanite.fr/politique/elon-musk/ingerence-et-salut-nazi-pourquoi-le-soutien-delon-musk-a-marine-le-pen-pour-la-presidentielle-2027-embarrasse-le-rn)
 - [Julien Odoul qui défend un violeur et blâme les victimes](https://www.nouvelobs.com/politique/20260828.OBS117742/les-propos-de-julien-odoul-sur-cnews-a-propos-de-l-affaire-bruel-et-de-la-femme-toujours-victime-suscitent-un-tolle.html) [[A]](https://archive.ph/MsTIK)
+- Marine Le Pen : cette girouette qui change d'avis comme de chemise
+	- [Le changement incessant d'avis sur le port du voile](https://www.huffingtonpost.fr/politique/video/une-amende-pour-le-port-du-voile-cela-fait-20-ans-que-le-rn-et-marine-le-pen-changent-tout-le-temps-d-avis-clx1_293218.html) [[A]](https://archive.ph/fCBDn) (lien a vérifier)
 
 ---
 
@@ -158,6 +161,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN à voté pour la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre](https://www.assemblee-nationale.fr/dyn/17/scrutins/7987#groupeRN) [[A]](https://web.archive.org/web/20260718181150/https://www.assemblee-nationale.fr/dyn/17/scrutins/7987#groupeRN) ~
 - [Le RN à voté contre la proposition de loi relative au droit à l'aide à mourir](https://www.assemblee-nationale.fr/dyn/17/scrutins/7894) [[A]](https://web.archive.org/web/20260725123508/https://www.assemblee-nationale.fr/dyn/17/scrutins/7894) ~
 - [Le RN a voté pour la loi Urgence Agricole qui réautorise l'acétamipride](https://www.assemblee-nationale.fr/dyn/17/scrutins/8427) [[A]](https://web.archive.org/web/20260721143015/https://www.assemblee-nationale.fr/dyn/17/scrutins/8427)
+- [Le RN et ses votes contre la santé des français](https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/) [[A]](https://web.archive.org/web/20260901104245/https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen) [[A]](https://web.archive.org/web/20260420131428/https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
