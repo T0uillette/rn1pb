@@ -144,6 +144,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 ---
 
 ## Leurs votes à l'assemblée
+- [Un outil pour suivre ce que le RN vote à l'assemblée](https://www.leurs-votes.fr/#explorer?groupe=rn)
 - [Le RN a voté contre la limitation de l'opposition au cadmium](https://www.franceinfo.fr/sante/l-assemblee-nationale-adopte-en-premiere-lecture-un-texte-pour-limiter-l-exposition-au-cadmium-un-metal-lourd-toxique_8043767.html) [[A]](https://web.archive.org/web/20260604225443/https://www.franceinfo.fr/sante/l-assemblee-nationale-adopte-en-premiere-lecture-un-texte-pour-limiter-l-exposition-au-cadmium-un-metal-lourd-toxique_8043767.html) ~
 - [Le RN s'oppose à la taxation des ultra-riches](https://lcp.fr/actualites/patrimoine-des-ultra-riches-le-principe-d-un-impot-plancher-de-2-approuve-en-commission) [[A]](https://lcp.fr/actualites/patrimoine-des-ultra-riches-le-principe-d-un-impot-plancher-de-2-approuve-en-commission) ~
 - [Le RN vote contre la réintroduction de la tax Zuckman](https://www.rtl.fr/actu/politique/budget-2026-la-taxe-zucman-rejetee-par-les-deputes-a-l-assemblee-nationale-7900560620) [[A]](https://web.archive.org/web/20251119091001/https://www.rtl.fr/actu/politique/budget-2026-la-taxe-zucman-rejetee-par-les-deputes-a-l-assemblee-nationale-7900560620) ~
