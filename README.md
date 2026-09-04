@@ -28,6 +28,7 @@ _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en
 - [Le RN souhaite encore plus détaxer les grands héritages](https://rmc.bfmtv.com/actualites/economie/taxes-sur-les-heritages-le-rn-y-voit-un-impot-immoral-et-compte-augmenter-l-abattement-de-100-000_AV-202608270216.html) [[A]](https://web.archive.org/web/20260827105844/https://rmc.bfmtv.com/actualites/economie/taxes-sur-les-heritages-le-rn-y-voit-un-impot-immoral-et-compte-augmenter-l-abattement-de-100-000_AV-202608270216.html)
 - [Le RN est l'ennemi de la culture](https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cagnes-sur-mer/c-est-fait-de-maniere-brutale-cette-mairie-rn-arrete-de-soutenir-un-collectif-d-artistes-sa-politique-culturelle-fait-debat-3407288.html) [[A]](https://archive.ph/j264t)
 - [Le RN veut faire payer une amende aux personnes portant le voile](https://www.20minutes.fr/politique/4241714-20260830-rn-veut-sanctionner-port-voile-amende-comme-ceinture-securite) [[A]](https://archive.ph/m26fL)
+- [Le RN compte lâcher l'Ukraine](https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/) [[A]]([https://archive.ph/wip/hpGxf](https://web.archive.org/web/20260904093735/https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/))
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
@@ -184,6 +185,14 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 	- [Site de l'assemblée en rapport](https://www.assemblee-nationale.fr/dyn/17/scrutins/1202) [[A]](https://web.archive.org/web/20251018163719/https://www.assemblee-nationale.fr/dyn/17/scrutins/1202)
 - [Le RN et ses positions anti IVG](https://www.ledauphine.com/politique/2024/06/21/le-rassemblement-national-et-l-ivg-un-revirement-et-des-divisions) [[A]](https://web.archive.org/web/20241003092449/https://www.ledauphine.com/politique/2024/06/21/le-rassemblement-national-et-l-ivg-un-revirement-et-des-divisions)
 - [Le RN est ouvertement Trumpiste](https://www.lemonde.fr/politique/article/2026/01/18/au-rn-une-attraction-inavouee-pour-le-trumpisme-et-un-alignement-ideologique-progressif_6663002_823448.html) [[A]](https://archive.ph/JbdHP) ~
+
+---
+
+## Ce qu'ils font à l'échelle locale
+- [Saint-Savin : la maire RN met fin à la gratuité de la cantine et du périscolaire](https://www.sudouest.fr/vienne/saint-savin/saint-savin-la-maire-rn-met-fin-a-la-gratuite-de-la-cantine-et-du-periscolaire-30466159.php) [[A]](https://archive.ph/j1vPU)
+- [L'annulation d'une élection municipale parce qu'un maire RN a menti sur sa ville](https://marsactu.fr/vers-une-annulation-de-lelection-de-lelu-rn-qui-a-menti-sur-son-adresse-a-plan-de-cuques/) [[A]](https://archive.ph/Jpizf)
+- [Les nouveaux maires RN du bassin minier en mode Hénin-Beaumont et leurs politique dure envers les associations et autres actions illégales
+](https://www.mediacites.fr/decryptage/lille/2026/09/04/securite-dette-culture-associations-les-nouveaux-maires-rn-du-bassin-minier-en-mode-henin-beaumont/) [[A]]([https://web.archive.org/web/20260904094719/https://www.mediacites.fr/decryptage/lille/2026/09/04/securite-dette-culture-associations-les-nouveaux-maires-rn-du-bassin-minier-en-mode-henin-beaumont/](https://archive.ph/qLSao))
 
 ---
 
