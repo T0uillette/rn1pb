@@ -140,7 +140,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/](https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/) [[A]](https://web.archive.org/web/20260901144331/https://www.streetpress.com/1787922092-ivry-seine-elu-provocateur-rn-kevin-nader-liens-groupuscules-racistes-antisemites-sterin-civitas-luminis-extreme-droite/)
 - [Une candidate RN aux sénatoriales et son engagement pour protéger la corrida](https://www.huffingtonpost.fr/politique/article/cette-candidate-du-rn-pour-les-senatoriales-n-est-pas-vraiment-alignee-avec-une-cause-chere-a-le-pen_316439.html) [[A]](https://archive.ph/fVmPp)
 - [En Loire-Atlantique, le RN s’attaque à nouveau à une subvention accordée à SOS Méditerranée](https://nantes.maville.com/actu/actudet_-en-loire-atlantique-le-rn-s-attaque-a-nouveau-a-une-subvention-accordee-a-sos-mediterranee_52719-7462564_actu.Htm) [[A]](https://archive.ph/5iPb7)
-- [Racisme et homophobie : en Corrèze, le RN investit une brebis galeuse pour les sénatoriales](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep1-valery-elophe-correze/) [[A]](https://archive.ph/wip/KfxOC)
+- [Racisme et homophobie : en Corrèze, le RN investit une brebis galeuse pour les sénatoriales](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep1-valery-elophe-correze/) [[A]](https://archive.ph/KfxOC)
 
 ---
 
