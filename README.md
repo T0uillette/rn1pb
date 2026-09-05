@@ -137,7 +137,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Une candidate RN aux sénatoriales et son engagement pour protéger la corrida](https://www.huffingtonpost.fr/politique/article/cette-candidate-du-rn-pour-les-senatoriales-n-est-pas-vraiment-alignee-avec-une-cause-chere-a-le-pen_316439.html) [[A]](https://archive.ph/fVmPp)
 - [En Loire-Atlantique, le RN s’attaque à nouveau à une subvention accordée à SOS Méditerranée](https://nantes.maville.com/actu/actudet_-en-loire-atlantique-le-rn-s-attaque-a-nouveau-a-une-subvention-accordee-a-sos-mediterranee_52719-7462564_actu.Htm) [[A]](https://archive.ph/5iPb7)
 - [Racisme et homophobie : en Corrèze, le RN investit une brebis galeuse pour les sénatoriales](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep1-valery-elophe-correze/) [[A]](https://archive.ph/KfxOC)
-
+- [Les nombreuses pratiques douteuses d'un député RN (fraude)](https://www.mediapart.fr/journal/politique/040926/il-y-pas-mal-de-fric-se-faire-les-curieuses-pratiques-du-depute-rn-jose-beaurain) [[A1]](https://textup.fr/943831xq) [[A2]](https://www.reddit.com/r/rn1pb/comments/1w7wotx/comment/p7y2v5t/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 ---
 
 ## Leurs votes à l'assemblée
