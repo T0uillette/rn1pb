@@ -204,7 +204,6 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Liévin - Le maire RN veut imposer un couvre feu pour les mineurs](https://www.lavoixdunord.fr/1729685/article/2026-08-17/couvre-feu-et-arrete-anti-regroupements-le-maire-de-lievin-reprend-une-deuxieme) [[A]](https://archive.ph/glPZt)
 - [Monteux - le maire RN supprime 90% des subventions à la MJC](https://www.lamarseillaise.fr/politique/la-mairie-rn-de-monteux-retire-a-la-mjc-42000-euros-de-subventions-HO20482371) [[A]](https://archive.ph/jtO1y)
 - [Carcassonne - Même la police dénonce l'incompétence du maire RN](https://www.lindependant.fr/2026/08/10/votre-securite-notre-priorite-promettait-le-nouveau-maire-rn-a-carcassonne-des-agents-de-la-police-municipale-denoncent-des-difficultes-et-demandent-13502536.php) [[A]](https://archive.ph/awUL7)
-- 
 
 ---
 
