@@ -140,6 +140,9 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Racisme et homophobie : en Corrèze, le RN investit une brebis galeuse pour les sénatoriales](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep1-valery-elophe-correze/) [[A]](https://archive.ph/KfxOC)
 - [Les nombreuses pratiques douteuses d'un député RN (fraude)](https://www.mediapart.fr/journal/politique/040926/il-y-pas-mal-de-fric-se-faire-les-curieuses-pratiques-du-depute-rn-jose-beaurain) [[A1]](https://textup.fr/943831xq) [[A2]](https://www.reddit.com/r/rn1pb/comments/1w7wotx/comment/p7y2v5t/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - [Racistes, complotistes, misogynes : les graves dérives de policiers municipaux de Carcassonne qui se sont filmés sans le vouloir](https://www.midilibre.fr/2026/09/08/racistes-complotistes-misogynes-les-graves-derives-de-policiers-municipaux-de-carcassonne-qui-se-sont-filmes-sans-le-vouloir-13530804.php) [[A]](https://archive.ph/rT7Kj#selection-287.0-287.128)
+- [Un collistier RN épinglé pour apologie du nazisme](https://www.bfmtv.com/bfm-dici/info-bfm-dici-un-co-listier-du-rn-a-gap-epingle-pour-des-videos-faisant-l-apologie-du-nazisme-une-enquete-pour-provocation-a-la-haine-raciale-et-apologie-du-genocide-ouverte_AN-202603160478.html) [[A]](https://archive.ph/SX4Se)
+- [La vice présidente du RN à un slogan collaborationniste affiché dans son bureau](https://contre-attaque.net/2026/08/20/un-slogan-collaborationniste-sur-le-mur-de-la-vice-presidente-du-rn/) [[A]](https://archive.ph/bJY4I)
+- [Orne - un membre du RN pique dans la caisse des pompiers](https://actu.fr/normandie/vimoutiers_61508/l-ex-candidat-rassemblement-national-aux-legislatives-dans-l-orne-piquait-dans-la-caisse-des-pompiers_62453065.html) [[A]](https://archive.ph/JIBzC)
 
 ---
 
@@ -196,6 +199,12 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [L'annulation d'une élection municipale parce qu'un maire RN a menti sur sa ville](https://marsactu.fr/vers-une-annulation-de-lelection-de-lelu-rn-qui-a-menti-sur-son-adresse-a-plan-de-cuques/) [[A]](https://archive.ph/Jpizf)
 - [Les nouveaux maires RN du bassin minier en mode Hénin-Beaumont et leurs politique dure envers les associations et autres actions illégales
 ](https://www.mediacites.fr/decryptage/lille/2026/09/04/securite-dette-culture-associations-les-nouveaux-maires-rn-du-bassin-minier-en-mode-henin-beaumont/) [[A]](https://archive.ph/qLSao)
+- [Val de Briey - Le maire RN ferme une épicerie solidaire](https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/le-maire-rn-de-cette-commune-ferme-l-epicerie-sociale-qu-il-estime-trop-chere-et-peu-frequentee-3413384.html) [[A]](https://archive.ph/eze2r)
+- [Montigny - Le maire RN supprime l'aide pour les affaires scolaires des collégiens](https://www.ici.fr/hauts-de-france/pas-de-calais-62/billy-montigny/la-mairie-rn-de-billy-montigny-supprime-le-kit-de-rentree-scolaire-aux-collegiens-7418800) [[A]](https://archive.ph/kPc6B)
+- [Liévin - Le maire RN veut imposer un couvre feu pour les mineurs](https://www.lavoixdunord.fr/1729685/article/2026-08-17/couvre-feu-et-arrete-anti-regroupements-le-maire-de-lievin-reprend-une-deuxieme) [[A]](https://archive.ph/glPZt)
+- [Monteux - le maire RN supprime 90% des subventions à la MJC](https://www.lamarseillaise.fr/politique/la-mairie-rn-de-monteux-retire-a-la-mjc-42000-euros-de-subventions-HO20482371) [[A]](https://archive.ph/jtO1y)
+- [Carcassonne - Même la police dénonce l'incompétence du maire RN](https://www.lindependant.fr/2026/08/10/votre-securite-notre-priorite-promettait-le-nouveau-maire-rn-a-carcassonne-des-agents-de-la-police-municipale-denoncent-des-difficultes-et-demandent-13502536.php) [[A]](https://archive.ph/awUL7)
+- 
 
 ---
 
@@ -203,6 +212,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 Ci-dessous, plus des regroupements d'infos/décryptages que des articles factuels :
 - [Pour finir un petit florilège des gens qui composent le parti](https://cartedelahonte.github.io/) [[A]](https://web.archive.org/web/20260412010210/https://cartedelahonte.github.io/)
 - [Site regroupant les dérapages des membres du RN](https://airdehaine.fr/) [[A]](https://web.archive.org/web/20260516211520/https://airdehaine.fr/)
+- [Un autre site regroupant les exactions des membres du RN](https://rassemblement-national.eu/)
 - [Le RN n'est pas le parti des pauvres et des travailleurs (Reportage Blast)](https://www.youtube.com/watch?app=desktop&v=H1d8SKRYB5o)
 - [Une appli recense les casseroles des députés RN](https://lesjours.fr/obsessions/rn-derniere-marche-2/ep5-appli-casseroles-deputes-rn/) [[A]](https://web.archive.org/web/20260607234600/https://lesjours.fr/obsessions/rn-derniere-marche-2/ep5-appli-casseroles-deputes-rn/)
 - [Le RN se sert de la mort d'un néonazi pour essayer de se banaliser](https://www.liberation.fr/politique/apres-la-mort-de-quentin-deranque-le-rn-en-operation-banalisation-20260218_44BOHU4Z45E57BICCE3C5PPRN4/) [[A]](https://web.archive.org/web/20260218193921/https://www.liberation.fr/politique/apres-la-mort-de-quentin-deranque-le-rn-en-operation-banalisation-20260218_44BOHU4Z45E57BICCE3C5PPRN4/) ~
