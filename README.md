@@ -29,6 +29,7 @@ _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en
 - [Le RN est l'ennemi de la culture](https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cagnes-sur-mer/c-est-fait-de-maniere-brutale-cette-mairie-rn-arrete-de-soutenir-un-collectif-d-artistes-sa-politique-culturelle-fait-debat-3407288.html) [[A]](https://archive.ph/j264t)
 - [Le RN veut faire payer une amende aux personnes portant le voile](https://www.20minutes.fr/politique/4241714-20260830-rn-veut-sanctionner-port-voile-amende-comme-ceinture-securite) [[A]](https://archive.ph/m26fL)
 - [Le RN compte lâcher l'Ukraine](https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/) [[A]](https://web.archive.org/web/20260904093735/https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/)
+- [Le RN veut favoriser les multipropriétaires](https://lareleveetlapeste.fr/presidentielles-le-rn-veut-favoriser-les-multiproprietaires/) [[A]](https://archive.ph/f13TH)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
@@ -138,6 +139,8 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [En Loire-Atlantique, le RN s’attaque à nouveau à une subvention accordée à SOS Méditerranée](https://nantes.maville.com/actu/actudet_-en-loire-atlantique-le-rn-s-attaque-a-nouveau-a-une-subvention-accordee-a-sos-mediterranee_52719-7462564_actu.Htm) [[A]](https://archive.ph/5iPb7)
 - [Racisme et homophobie : en Corrèze, le RN investit une brebis galeuse pour les sénatoriales](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep1-valery-elophe-correze/) [[A]](https://archive.ph/KfxOC)
 - [Les nombreuses pratiques douteuses d'un député RN (fraude)](https://www.mediapart.fr/journal/politique/040926/il-y-pas-mal-de-fric-se-faire-les-curieuses-pratiques-du-depute-rn-jose-beaurain) [[A1]](https://textup.fr/943831xq) [[A2]](https://www.reddit.com/r/rn1pb/comments/1w7wotx/comment/p7y2v5t/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [Racistes, complotistes, misogynes : les graves dérives de policiers municipaux de Carcassonne qui se sont filmés sans le vouloir](https://www.midilibre.fr/2026/09/08/racistes-complotistes-misogynes-les-graves-derives-de-policiers-municipaux-de-carcassonne-qui-se-sont-filmes-sans-le-vouloir-13530804.php) [[A]](https://archive.ph/rT7Kj#selection-287.0-287.128)
+
 ---
 
 ## Leurs votes à l'assemblée
