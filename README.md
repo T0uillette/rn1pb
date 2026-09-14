@@ -30,6 +30,7 @@ _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en
 - [Le RN veut faire payer une amende aux personnes portant le voile](https://www.20minutes.fr/politique/4241714-20260830-rn-veut-sanctionner-port-voile-amende-comme-ceinture-securite) [[A]](https://archive.ph/m26fL)
 - [Le RN compte lâcher l'Ukraine](https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/) [[A]](https://web.archive.org/web/20260904093735/https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/)
 - [Le RN veut favoriser les multipropriétaires](https://lareleveetlapeste.fr/presidentielles-le-rn-veut-favoriser-les-multiproprietaires/) [[A]](https://archive.ph/f13TH)
+- [Le RN veut des logements sociaux : mais seulement pour les blancs](https://www.huffingtonpost.fr/politique/article/marine-le-pen-veut-encore-supprimer-cette-mesure-de-solidarite-pour-les-hlm_323864.html) [[A]](https://archive.ph/M61f3)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
