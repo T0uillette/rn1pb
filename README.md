@@ -144,6 +144,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Un collistier RN épinglé pour apologie du nazisme](https://www.bfmtv.com/bfm-dici/info-bfm-dici-un-co-listier-du-rn-a-gap-epingle-pour-des-videos-faisant-l-apologie-du-nazisme-une-enquete-pour-provocation-a-la-haine-raciale-et-apologie-du-genocide-ouverte_AN-202603160478.html) [[A]](https://archive.ph/SX4Se)
 - [La vice présidente du RN à un slogan collaborationniste affiché dans son bureau](https://contre-attaque.net/2026/08/20/un-slogan-collaborationniste-sur-le-mur-de-la-vice-presidente-du-rn/) [[A]](https://archive.ph/bJY4I)
 - [Orne - un membre du RN pique dans la caisse des pompiers](https://actu.fr/normandie/vimoutiers_61508/l-ex-candidat-rassemblement-national-aux-legislatives-dans-l-orne-piquait-dans-la-caisse-des-pompiers_62453065.html) [[A]](https://archive.ph/JIBzC)
+- [Les candidats RN abusent de leurs frais de campagne avec des frais kilométriques hors norme](https://www.huffingtonpost.fr/politique/article/ces-candidats-rn-epingles-pour-des-frais-kilometriques-equivalents-a-trois-fois-le-tour-de-la-terre_254049.html) [[A]](https://archive.ph/DGYI5)
 
 ---
 
