@@ -68,6 +68,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Les faux documents de Bardella](https://www.liberation.fr/politique/assistants-fictifs-du-rassemblement-national-les-faux-documents-de-jordan-bardella-20240909_5IHPRZRD7NAORD7PNHD5UHJAIA/) [[A]](https://web.archive.org/web/20260720040729/https://www.liberation.fr/politique/assistants-fictifs-du-rassemblement-national-les-faux-documents-de-jordan-bardella-20240909_5IHPRZRD7NAORD7PNHD5UHJAIA/)
 - [Intimidations face à des féministes](https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/) [[A]](https://web.archive.org/web/20250603210548/https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/)
 - [Le RN oblige ses candidats à acheter du matériel produit par des amis de Marine Le Pen](https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/) [[A]](https://web.archive.org/web/20250705053712/https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/)
+- [Le RN ne fait rien pour virer ses députés qui détourne de l'argent](https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html)  [[A]](https://archive.ph/5RQM1)
 
 ---
 
@@ -145,6 +146,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [La vice présidente du RN à un slogan collaborationniste affiché dans son bureau](https://contre-attaque.net/2026/08/20/un-slogan-collaborationniste-sur-le-mur-de-la-vice-presidente-du-rn/) [[A]](https://archive.ph/bJY4I)
 - [Orne - un membre du RN pique dans la caisse des pompiers](https://actu.fr/normandie/vimoutiers_61508/l-ex-candidat-rassemblement-national-aux-legislatives-dans-l-orne-piquait-dans-la-caisse-des-pompiers_62453065.html) [[A]](https://archive.ph/JIBzC)
 - [Les candidats RN abusent de leurs frais de campagne avec des frais kilométriques hors norme](https://www.huffingtonpost.fr/politique/article/ces-candidats-rn-epingles-pour-des-frais-kilometriques-equivalents-a-trois-fois-le-tour-de-la-terre_254049.html) [[A]](https://archive.ph/DGYI5)
+- [Le RN investit un ancien néo-nazi aux sénatoriales](www.humanite.fr/politique/elections-senatoriales/ancien-de-groupuscule-neonazi-revisionniste-nostalgique-des-colonies-qui-est-eric-mine-candidat-rn-aux-senatoriales) [[A]](https://archive.ph/1yNRX)
 
 ---
 
@@ -209,6 +211,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Nîmes - Le RN s'en prend à la presse locale](https://actu.fr/occitanie/nimes_30189/une-presse-aux-ordres-dans-le-gard-la-nouvelle-sortie-du-rn-contre-les-journalistes-locaux-ne-passe-pas_64785237.html) [[A]](https://archive.ph/xiP8W)
 - [Carpentras - Le RN retire un local à une association pour l'environnement](https://www.ledauphine.com/environnement/2026/09/14/a-carpentras-france-nature-environnement-se-voit-retirer-son-local-par-la-mairie-rn) [[A]](https://archive.ph/Pi2VZ)
 - [Carpentras : un festival de cinéma annulé après la suppression d’une subvention par le maire RN](https://www.liberation.fr/politique/mairie-rn-a-carpentras-un-festival-de-cinema-annule-apres-la-suppression-dune-subvention-20260703_DROS5NJBOJASBGFMTEVSNQSDFU/) [[A]](https://web.archive.org/web/20260913163930/https://www.liberation.fr/politique/mairie-rn-a-carpentras-un-festival-de-cinema-annule-apres-la-suppression-dune-subvention-20260703_DROS5NJBOJASBGFMTEVSNQSDFU/)
+- [Carpentras : le maire essaye d'empêcher une manifestation LFI](https://www.franceinfo.fr/carpentras/le-maire-rn-de-carpentras-demande-au-prefet-d-interdire-une-manifestation-de-lfi_8195387.html) [[A]](https://archive.ph/NObY7)
 
 ---
 
