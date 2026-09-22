@@ -212,6 +212,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Carpentras - Le RN retire un local à une association pour l'environnement](https://www.ledauphine.com/environnement/2026/09/14/a-carpentras-france-nature-environnement-se-voit-retirer-son-local-par-la-mairie-rn) [[A]](https://archive.ph/Pi2VZ)
 - [Carpentras : un festival de cinéma annulé après la suppression d’une subvention par le maire RN](https://www.liberation.fr/politique/mairie-rn-a-carpentras-un-festival-de-cinema-annule-apres-la-suppression-dune-subvention-20260703_DROS5NJBOJASBGFMTEVSNQSDFU/) [[A]](https://web.archive.org/web/20260913163930/https://www.liberation.fr/politique/mairie-rn-a-carpentras-un-festival-de-cinema-annule-apres-la-suppression-dune-subvention-20260703_DROS5NJBOJASBGFMTEVSNQSDFU/)
 - [Carpentras : le maire essaye d'empêcher une manifestation LFI](https://www.franceinfo.fr/carpentras/le-maire-rn-de-carpentras-demande-au-prefet-d-interdire-une-manifestation-de-lfi_8195387.html) [[A]](https://archive.ph/NObY7)
+- [Carcassonne - Le bilan catastrophique de 6 mois de RN](https://www.mediapart.fr/journal/politique/210926/autoritarisme-et-coups-de-com-carcassonne-le-bilan-de-six-mois-de-rn-au-pouvoir) [[A]](https://archive.ph/w6zyj)
 
 ---
 
