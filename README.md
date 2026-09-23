@@ -60,6 +60,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Julien Odoul qui défend un violeur et blâme les victimes](https://www.nouvelobs.com/politique/20260828.OBS117742/les-propos-de-julien-odoul-sur-cnews-a-propos-de-l-affaire-bruel-et-de-la-femme-toujours-victime-suscitent-un-tolle.html) [[A]](https://archive.ph/MsTIK)
 - Marine Le Pen : cette girouette qui change d'avis comme de chemise
 	- [Le changement incessant d'avis sur le port du voile](https://www.huffingtonpost.fr/politique/video/une-amende-pour-le-port-du-voile-cela-fait-20-ans-que-le-rn-et-marine-le-pen-changent-tout-le-temps-d-avis-clx1_293218.html) [[A]](https://archive.ph/fCBDn) (lien a vérifier)
+- [Jean-Philippe Tanguy reprend un slogan nazi dans un meeting](https://www.courrier-picard.fr/id746962/article/2026-09-22/le-gros-derapage-du-depute-rn-de-la-somme-jean-philippe-tanguy-qui-utilise-un) [[A]](https://archive.ph/mgSEb)
 
 ---
 
