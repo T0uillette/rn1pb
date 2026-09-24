@@ -175,6 +175,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN à voté contre la proposition de loi relative au droit à l'aide à mourir](https://www.assemblee-nationale.fr/dyn/17/scrutins/7894) [[A]](https://web.archive.org/web/20260725123508/https://www.assemblee-nationale.fr/dyn/17/scrutins/7894) ~
 - [Le RN a voté pour la loi Urgence Agricole qui réautorise l'acétamipride](https://www.assemblee-nationale.fr/dyn/17/scrutins/8427) [[A]](https://web.archive.org/web/20260721143015/https://www.assemblee-nationale.fr/dyn/17/scrutins/8427)
 - [Le RN et ses votes contre la santé des français](https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/) [[A]](https://web.archive.org/web/20260901104245/https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/)
+- [Loi contre les violences sexistes et sexuelles : tout le monde vote pour, sauf le RN qui s'abstient](https://www.lavoixdunord.fr/1739958/article/2026-09-24/la-loi-integrale-contre-les-violences-sexistes-e-sexuelles-votee-l-unanimite-des) [[A]](https://archive.ph/gbsYN)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen) [[A]](https://web.archive.org/web/20260420131428/https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
