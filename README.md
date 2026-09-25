@@ -216,6 +216,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Carpentras : le maire essaye d'empêcher une manifestation LFI](https://www.franceinfo.fr/carpentras/le-maire-rn-de-carpentras-demande-au-prefet-d-interdire-une-manifestation-de-lfi_8195387.html) [[A]](https://archive.ph/NObY7)
 - [Carcassonne - Le bilan catastrophique de 6 mois de RN](https://www.mediapart.fr/journal/politique/210926/autoritarisme-et-coups-de-com-carcassonne-le-bilan-de-six-mois-de-rn-au-pouvoir) [[A]](https://archive.ph/w6zyj)
 - [Montargis - L'élection du maire RN annulée : il avait diffusé une vidéo diffamante sur son adversaire](https://www.franceinfo.fr/societe/justice/le-tribunal-administratif-annule-la-victoire-du-rn-aux-municipales-a-montargis-en-raison-de-la-diffusion-d-une-video-a-caractere-diffamatoire-avant-le-second-tour_8208167.html) [[A]](https://archive.ph/p9n8S)
+- [Carcassonne - Face à des affaires, le maire RN musèle l'opposition](https://www.mediapart.fr/journal/politique/240926/carcassonne-face-de-nouveaux-elements-accablants-le-maire-rn-musele-ses-oppositions) [[A]](https://archive.ph/TCHCC)
 
 ---
 
