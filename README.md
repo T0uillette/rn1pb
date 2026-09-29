@@ -62,6 +62,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 	- [Le changement incessant d'avis sur le port du voile](https://www.huffingtonpost.fr/politique/video/une-amende-pour-le-port-du-voile-cela-fait-20-ans-que-le-rn-et-marine-le-pen-changent-tout-le-temps-d-avis-clx1_293218.html) [[A]](https://archive.ph/fCBDn) (lien a vérifier)
 - [Jean-Philippe Tanguy reprend un slogan nazi dans un meeting](https://www.courrier-picard.fr/id746962/article/2026-09-22/le-gros-derapage-du-depute-rn-de-la-somme-jean-philippe-tanguy-qui-utilise-un) [[A]](https://archive.ph/mgSEb)
 - [Bardella et ses écrits antisémites](https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites) [[A]](https://archive.fo/R9GYs)
+- [Marine Le Pen se permet de faire une menace en mort à peine cachée](https://www.leparisien.fr/politique/des-menaces-de-mort-marine-le-pen-dit-a-mediapart-denfiler-son-costard-en-kevlar-une-deputee-ecologiste-saisit-le-procureur-de-la-republique-29-09-2026-ONA345AGZREBROZ2SMIHW2CIOU.php) [[A]](https://archive.fo/pPTw3)
 
 ---
 
