@@ -150,6 +150,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Orne - un membre du RN pique dans la caisse des pompiers](https://actu.fr/normandie/vimoutiers_61508/l-ex-candidat-rassemblement-national-aux-legislatives-dans-l-orne-piquait-dans-la-caisse-des-pompiers_62453065.html) [[A]](https://archive.ph/JIBzC)
 - [Les candidats RN abusent de leurs frais de campagne avec des frais kilométriques hors norme](https://www.huffingtonpost.fr/politique/article/ces-candidats-rn-epingles-pour-des-frais-kilometriques-equivalents-a-trois-fois-le-tour-de-la-terre_254049.html) [[A]](https://archive.ph/DGYI5)
 - [Le RN investit un ancien néo-nazi aux sénatoriales](www.humanite.fr/politique/elections-senatoriales/ancien-de-groupuscule-neonazi-revisionniste-nostalgique-des-colonies-qui-est-eric-mine-candidat-rn-aux-senatoriales) [[A]](https://archive.ph/1yNRX)
+- [Un adjoint au maire RN vu portant un t-shirt suprémaciste blanc](https://www.franceinfo.fr/politique/front-national/un-adjoint-a-une-maire-rn-du-pas-de-calais-arbore-un-t-shirt-supremaciste-blanc-l-opposition-reclame-sa-demission_8216134.html) [[A]](https://archive.ph/IijpQ)
 
 ---
 
@@ -220,6 +221,9 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Montargis - L'élection du maire RN annulée : il avait diffusé une vidéo diffamante sur son adversaire](https://www.franceinfo.fr/societe/justice/le-tribunal-administratif-annule-la-victoire-du-rn-aux-municipales-a-montargis-en-raison-de-la-diffusion-d-une-video-a-caractere-diffamatoire-avant-le-second-tour_8208167.html) [[A]](https://archive.ph/p9n8S)
 - [Carcassonne - Face à des affaires, le maire RN musèle l'opposition](https://www.mediapart.fr/journal/politique/240926/carcassonne-face-de-nouveaux-elements-accablants-le-maire-rn-musele-ses-oppositions) [[A]](https://archive.ph/TCHCC)
 - [Marseille - le RN fait pression pour supprimer les subventions d'un festival](https://www.leparisien.fr/politique/marseille-sous-pression-du-rn-le-departement-bloque-la-subvention-dun-festival-pour-avoir-invite-une-autrice-a-lorigine-de-propos-sur-les-blancs-25-09-2026-UAVBDBINSRCM7M6UAZ2DYN4K24.php) [[A]](https://archive.ph/NKHWj)
+- [Lievin - Le maire RN provoque ouvertement les syndicats](https://www.liberation.fr/politique/cgt-payez-votre-loyer-ou-partez-dans-le-pas-de-calais-un-maire-rn-saque-et-nargue-le-syndicat-20260930_NDZC4KDKCNCCFJ5ZCCYTCJ3Q5A/) [[A]](https://archive.ph/gH8MJ=)
+- [Vierzon - Le RN contre la culture - Le maire RN fait annuler une pièce critiquant les conditions de travail chez Amazon](https://next.ink/brief-article/le-maire-rn-de-vierzon-interdit-une-piece-decrivant-les-conditions-de-travail-chez-amazon/) [[A]](https://archive.ph/6yug3)
+- [Elne - Le RN contre la culture : le maire débaptise un cinéma portant le nom d'un réalisateur décolonialiste](https://www.ici.fr/occitanie/pyrenees-orientales-66/elne/polemique-a-elne-le-nouveau-maire-debaptise-le-cinema-1198195) [[A]](https://archive.ph/gnEfh)
 
 ---
 
