@@ -63,6 +63,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Jean-Philippe Tanguy reprend un slogan nazi dans un meeting](https://www.courrier-picard.fr/id746962/article/2026-09-22/le-gros-derapage-du-depute-rn-de-la-somme-jean-philippe-tanguy-qui-utilise-un) [[A]](https://archive.ph/mgSEb)
 - [Bardella et ses écrits antisémites](https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites) [[A]](https://archive.fo/R9GYs)
 - [Marine Le Pen se permet de faire une menace en mort à peine cachée](https://www.leparisien.fr/politique/des-menaces-de-mort-marine-le-pen-dit-a-mediapart-denfiler-son-costard-en-kevlar-une-deputee-ecologiste-saisit-le-procureur-de-la-republique-29-09-2026-ONA345AGZREBROZ2SMIHW2CIOU.php) [[A]](https://archive.fo/pPTw3)
+- [Jean Phillipe Tanguy ment sur ses liens avec Frédéric Chatillon, un leader du GUD, un groupuscule néo-nazi](https://www.mediapart.fr/journal/france/021026/marine-le-pen-et-le-radioactif-frederic-chatillon-le-mensonge-de-jean-philippe-tanguy?utm_source=chatgpt.com) [[A]](https://archive.ph/nbSLG) [[Texte complet]](https://www.reddit.com/r/rn1pb/comments/1wxams0/comment/pdrs7f9)
 
 ---
 
@@ -179,6 +180,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Le RN a voté pour la loi Urgence Agricole qui réautorise l'acétamipride](https://www.assemblee-nationale.fr/dyn/17/scrutins/8427) [[A]](https://web.archive.org/web/20260721143015/https://www.assemblee-nationale.fr/dyn/17/scrutins/8427)
 - [Le RN et ses votes contre la santé des français](https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/) [[A]](https://web.archive.org/web/20260901104245/https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/)
 - [Loi contre les violences sexistes et sexuelles : tout le monde vote pour, sauf le RN qui s'abstient](https://www.lavoixdunord.fr/1739958/article/2026-09-24/la-loi-integrale-contre-les-violences-sexistes-e-sexuelles-votee-l-unanimite-des) [[A]](https://archive.ph/gbsYN)
+- [Le RN s'abstient dans le vote pour la loi intégrale contre les VSS mais a quand même tenté des amendements racistes](https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-les-offensives-du-rn-sur-l-immigration) [[A]](https://archive.ph/WTyBr)
 
 ## L'histoire du parti
 - [Les belles envolées lyriques de Jean-Marie Le Pen](https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen) [[A]](https://web.archive.org/web/20260420131428/https://fr.wikiquote.org/wiki/Jean-Marie_Le_Pen)
@@ -224,6 +226,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Lievin - Le maire RN provoque ouvertement les syndicats](https://www.liberation.fr/politique/cgt-payez-votre-loyer-ou-partez-dans-le-pas-de-calais-un-maire-rn-saque-et-nargue-le-syndicat-20260930_NDZC4KDKCNCCFJ5ZCCYTCJ3Q5A/) [[A]](https://archive.ph/gH8MJ=)
 - [Vierzon - Le RN contre la culture - Le maire RN fait annuler une pièce critiquant les conditions de travail chez Amazon](https://next.ink/brief-article/le-maire-rn-de-vierzon-interdit-une-piece-decrivant-les-conditions-de-travail-chez-amazon/) [[A]](https://archive.ph/6yug3)
 - [Elne - Le RN contre la culture : le maire débaptise un cinéma portant le nom d'un réalisateur décolonialiste](https://www.ici.fr/occitanie/pyrenees-orientales-66/elne/polemique-a-elne-le-nouveau-maire-debaptise-le-cinema-1198195) [[A]](https://archive.ph/gnEfh)
+- [Bergerac - Le RN refuse de nommer une école d'après le nom d'une rescapée de la Shoah](https://www.ici.fr/nouvelle-aquitaine/dordogne-24/bergerac/les-elus-rn-de-bergerac-refusent-de-nommer-une-ecole-du-nom-d-une-rescapee-de-la-shoah-8645990) [[A]](https://archive.ph/dcsQK)
 
 ---
 
