@@ -152,6 +152,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Les candidats RN abusent de leurs frais de campagne avec des frais kilométriques hors norme](https://www.huffingtonpost.fr/politique/article/ces-candidats-rn-epingles-pour-des-frais-kilometriques-equivalents-a-trois-fois-le-tour-de-la-terre_254049.html) [[A]](https://archive.ph/DGYI5)
 - [Le RN investit un ancien néo-nazi aux sénatoriales](www.humanite.fr/politique/elections-senatoriales/ancien-de-groupuscule-neonazi-revisionniste-nostalgique-des-colonies-qui-est-eric-mine-candidat-rn-aux-senatoriales) [[A]](https://archive.ph/1yNRX)
 - [Un adjoint au maire RN vu portant un t-shirt suprémaciste blanc](https://www.franceinfo.fr/politique/front-national/un-adjoint-a-une-maire-rn-du-pas-de-calais-arbore-un-t-shirt-supremaciste-blanc-l-opposition-reclame-sa-demission_8216134.html) [[A]](https://archive.ph/IijpQ)
+- [Les liens entre un groupe RN, la Cocarde, et les des groupes néo-fascistes](https://www.streetpress.com/1790955167-lyon-cocarde-vivier-rassemblement-national-gangrenee-neofascistes-radicaux-violents-extreme-droite/) [[A]](https://archive.ph/ZGlkn)
 
 ---
 
@@ -227,6 +228,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Vierzon - Le RN contre la culture - Le maire RN fait annuler une pièce critiquant les conditions de travail chez Amazon](https://next.ink/brief-article/le-maire-rn-de-vierzon-interdit-une-piece-decrivant-les-conditions-de-travail-chez-amazon/) [[A]](https://archive.ph/6yug3)
 - [Elne - Le RN contre la culture : le maire débaptise un cinéma portant le nom d'un réalisateur décolonialiste](https://www.ici.fr/occitanie/pyrenees-orientales-66/elne/polemique-a-elne-le-nouveau-maire-debaptise-le-cinema-1198195) [[A]](https://archive.ph/gnEfh)
 - [Bergerac - Le RN refuse de nommer une école d'après le nom d'une rescapée de la Shoah](https://www.ici.fr/nouvelle-aquitaine/dordogne-24/bergerac/les-elus-rn-de-bergerac-refusent-de-nommer-une-ecole-du-nom-d-une-rescapee-de-la-shoah-8645990) [[A]](https://archive.ph/dcsQK)
+- [Cagnes-sur-mer - Le RN contre la culture - La mairie RN fait fermer un espace culturel ](https://www.telerama.fr/debats-reportages/a-cagnes-sur-mer-la-mairie-rn-ferme-arbitrairement-un-espace-d-experimentation-artistique-7033148.php) [[A]](https://archive.ph/lThlB#selection-645.7-649.90)
 
 ---
 
