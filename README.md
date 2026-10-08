@@ -31,6 +31,8 @@ _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en
 - [Le RN compte lâcher l'Ukraine](https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/) [[A]](https://web.archive.org/web/20260904093735/https://www.liberation.fr/politique/le-rn-prevoit-deja-de-lacher-lukraine-20260904_6M55M4WN6VBLDI3GSA5CA3OKWE/)
 - [Le RN veut favoriser les multipropriétaires](https://lareleveetlapeste.fr/presidentielles-le-rn-veut-favoriser-les-multiproprietaires/) [[A]](https://archive.ph/f13TH)
 - [Le RN veut des logements sociaux : mais seulement pour les blancs](https://www.huffingtonpost.fr/politique/article/marine-le-pen-veut-encore-supprimer-cette-mesure-de-solidarite-pour-les-hlm_323864.html) [[A]](https://archive.ph/M61f3)
+- [Budget - Le RN et des propositions : un contre-budget catastrophique décrié par tout le monde](https://www.huffingtonpost.fr/politique/article/le-budget-du-rassemblement-national-fait-l-unanimite-contre-lui_336179.html) [[A]](https://archive.ph/hEh7e)
+- [Le RN veut supprimer les intercommunalités, importantyes pour la gestion et la vie de millions de personnes](https://www.lemonde.fr/politique/article/2026/10/07/presidentielle-2027-le-rassemblement-national-veut-supprimer-les-intercommunalites_6789595_823448.html) [[A]](https://archive.ph/HiuJd)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
