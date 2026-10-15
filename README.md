@@ -33,6 +33,8 @@ _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en
 - [Le RN veut des logements sociaux : mais seulement pour les blancs](https://www.huffingtonpost.fr/politique/article/marine-le-pen-veut-encore-supprimer-cette-mesure-de-solidarite-pour-les-hlm_323864.html) [[A]](https://archive.ph/M61f3)
 - [Budget - Le RN et des propositions : un contre-budget catastrophique décrié par tout le monde](https://www.huffingtonpost.fr/politique/article/le-budget-du-rassemblement-national-fait-l-unanimite-contre-lui_336179.html) [[A]](https://archive.ph/hEh7e)
 - [Le RN veut supprimer les intercommunalités, importantyes pour la gestion et la vie de millions de personnes](https://www.lemonde.fr/politique/article/2026/10/07/presidentielle-2027-le-rassemblement-national-veut-supprimer-les-intercommunalites_6789595_823448.html) [[A]](https://archive.ph/HiuJd)
+- [La contre proposition de budget du RN sont bourrés de coquilles, générés à la va-vite par IA](https://www.rtl.fr/actu/politique/chiffres-surestimes-coquilles-ia-le-rn-epingle-pour-des-erreurs-dans-son-contre-budget-7900684659) [[A]](https://archive.ph/BOgFK)
+- [Le RN veut forcer la modification de la consititution par tous les moyens](https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum) [[A]](https://archive.ph/gMNa9) (*)
 
 _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 
@@ -156,6 +158,9 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Un adjoint au maire RN vu portant un t-shirt suprémaciste blanc](https://www.franceinfo.fr/politique/front-national/un-adjoint-a-une-maire-rn-du-pas-de-calais-arbore-un-t-shirt-supremaciste-blanc-l-opposition-reclame-sa-demission_8216134.html) [[A]](https://archive.ph/IijpQ)
 - [Les liens entre un groupe RN, la Cocarde, et les des groupes néo-fascistes](https://www.streetpress.com/1790955167-lyon-cocarde-vivier-rassemblement-national-gangrenee-neofascistes-radicaux-violents-extreme-droite/) [[A]](https://archive.ph/ZGlkn)
 - [Marine Le Pen tent de réhabiliter Jean-François Jalkh, un négationniste](https://www.mediapart.fr/journal/politique/061026/jordan-bardella-et-l-antisemitisme-l-autre-tache-sur-le-parcours-du-president-du-rn) [[A]](https://archive.ph/j1RDZ) [[Texte complet]](https://www.reddit.com/r/rn1pb/comments/1wzq7zf/comment/pedv2z7/)
+- [Un membre du RN viré du parti à cause de ses propros antisémites](https://www.lemonde.fr/politique/article/2026/10/09/le-depute-rn-franck-allisio-licencie-son-collaborateur-accuse-d-ecrits-antisemites-sur-les-reseaux-sociaux_6790566_823448.html) [[A]](https://archive.ph/v09vN)
+- [Plus de la moitié des 230 cadres du RN épinglés pour racisme ou antisémitisme ](https://bonpote.com/plus-de-la-moitie-des-230-cadres-du-rn-epingles-pour-racisme-ou-antisemitisme/) [[A]](https://archive.ph/CpIOs)
+- [Des députés RN font de faux justificatifs médicaux pour pas avoir à aller à l'assemblée](https://www.mediapart.fr/journal/politique/141026/des-deputes-rn-pris-en-flagrant-delit-d-assemblee-buissonniere) [[A]](https://archive.ph/A06xp] [[Texte complet]](https://www.reddit.com/r/rn1pb/comments/1x6jgwc/comment/pgvqc7l)
 
 ---
 
