@@ -5,7 +5,7 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 _nouveauté : RN1PB est aussi sur Reddit, vous pouvez réagir aux articles et en poster d'autres en direct, les articles pertinents iront rejoindre ce document._
 
 ## Leur projet
-- [Un candidat RN veut "mettre au pas le Conseil constitutionnel"](https://xcancel.com/MarionVanR/status/1801338828860342492) [[A]](https://archive.ph/pll2d) (*)
+- [Un candidat RN veut "mettre au pas le Conseil constitutionnel"](https://www.magcentre.fr/308135-cher-pierre-gentillet-ce-parachute-qui-veut-mettre-au-pas-le-conseil-constitutionnel/) [[A]](https://archive.fo/9Co0h) (*)
 - [Ouvertement pour des lois raciales et anticonstitutionnelles](https://www.lemonde.fr/idees/article/2024/06/21/la-preference-nationale-pronee-par-le-rn-une-posture-anticonstitutionnelle_6242155_3232.html) [[A]](https://archive.ph/CiRi7) (*)
 - [Envie d'une présomption de confiance (ie : droit de tuer) pour la police](https://www.francetvinfo.fr/faits-divers/police/violences-policieres/violences-policieres-le-rn-jean-philippe-tanguy-veut-une-presomption-de-confiance-dans-nos-forces-de-l-ordre_5963174.html) [[A]](https://web.archive.org/web/20250603210547/https://www.franceinfo.fr/faits-divers/police/violences-policieres/violences-policieres-le-rn-jean-philippe-tanguy-veut-une-presomption-de-confiance-dans-nos-forces-de-l-ordre_5963174.html)
 - [Ce qu'ils votent à l'Assemblée (16ème legislature - avant dissolution)](https://datan.fr/groupes/legislature-16/rn/votes) [[A]](https://datan.fr/groupes/legislature-16/rn/votes)
@@ -41,7 +41,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 ---
 
 ## Les cadres
-- [Infographie édifiante sur les liens des cadres du parti](https://xcancel.com/YazuWok/status/1802666323937210674) [[(l'infographie)]](https://pbs.twimg.com/media/GQRbVB_XMAAywHh.jpg?name=orig)
+- [Infographie édifiante sur les liens des cadres du parti](https://pbs.twimg.com/media/GQRbVB_XMAAywHh.jpg) [[(l'infographie)]](https://archive.ph/UGEi7)
 - [Marine Le Pen s'affiche avec des suprémacistes blancs européens](https://www.liberation.fr/les-idees/2019/05/16/photo-de-marine-le-pen-avec-des-supremacistes-blancs-en-estonie-elle-ne-pouvait-pas-ne-pas-savoir_1727185/) [[A]](https://web.archive.org/web/20260811090626/https://www.liberation.fr/les-idees/2019/05/16/photo-de-marine-le-pen-avec-des-supremacistes-blancs-en-estonie-elle-ne-pouvait-pas-ne-pas-savoir_1727185/)
 - [30 prises de position de Marine Le Pen assez douteuses](https://www.radiofrance.fr/franceinter/marine-le-pen-est-elle-d-extreme-droite-voici-30-de-ses-prises-de-position-qui-ne-laissent-aucun-doute-9586630) [[A]](https://web.archive.org/web/20250603210547/https://www.radiofrance.fr/franceinter/marine-le-pen-est-elle-d-extreme-droite-voici-30-de-ses-prises-de-position-qui-ne-laissent-aucun-doute-9586630)
 - [Des militants néonazis et néofascistes dans le meeting de Bardella](https://www.liberation.fr/politique/des-neonazis-chez-jordan-bardella-qui-en-parle-20240407_PPQAUELYENHJVHJQOAUU2EE23A/) [[A]](https://web.archive.org/web/20250603210547/https://www.liberation.fr/politique/des-neonazis-chez-jordan-bardella-qui-en-parle-20240407_PPQAUELYENHJVHJQOAUU2EE23A/)
@@ -49,7 +49,6 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Marine Le Pen grande défenseuse des antisémites](https://www.blast-info.fr/articles/2024/gud-quand-marine-le-pen-defendait-des-antisemites-amUBly36RiumIhBT06La6A) [[A]](https://web.archive.org/web/20250627181103/https://www.blast-info.fr/articles/2024/gud-quand-marine-le-pen-defendait-des-antisemites-amUBly36RiumIhBT06La6A)
 - [Jean-Marie Le Pen reçoit des membres d'un parti ouvertement nazi](https://www.dailymotion.com/video/x1e8ikj)
 - [Jean-Marie Le Pen : ses enfants surnommaient Adolf Hitler de "tonton Dolfi"](https://www.sudinfo.be/art/1837605/article/2017-05-04/selon-pierrette-le-pen-ses-enfants-surnommaient-adolf-hitler-de-tonton-dolfi-arc) [[A]](https://web.archive.org/web/20250603210548/https://www.sudinfo.be/art/1837605/article/2017-05-04/selon-pierrette-le-pen-ses-enfants-surnommaient-adolf-hitler-de-tonton-dolfi-arc)
-- [Toutes les fois où Jean-Marie Le Pen a été condamné](https://xcancel.com/Inafr_officiel/status/1876656623252386013?t=09ej7IWEQgjoAGNrNVYFzg)
 - [Bardella ne va jamais à l'Assemblée Européenne](https://www.leparisien.fr/politique/cest-linconnu-du-thalys-pourquoi-jordan-bardella-est-un-depute-fantome-au-parlement-europeen-01-01-2025-HSMWDW7C7BHE7GAB6MEHGVZNEU.php) [[A]](https://archive.ph/vM1I1)
 - [Les liens entre Marine Le Pen et le régime de Bachar Al-Assad](https://www.reddit.com/r/FranceDigeste/comments/1hakn1w/les_liens_financiers_et_politiques_dun_proche_de/) [[A]](https://archive.ph/ePrvZ)
 - [Marine Le Pen condamnée pour appel à la diffamation](https://www.liberation.fr/politique/marine-le-pen-de-nouveau-condamnee-en-appel-pour-diffamation-20240911_VRURMT7JKNDUNHZ55KMNDI62DY/) [[A]](https://archive.ph/9rTbN)
