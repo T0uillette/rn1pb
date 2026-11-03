@@ -1,0 +1,18 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { editorialPage } from '../data/site';
+const page = await editorialPage('methode');
+const { Content } = await render(page);
+---
+<Base title={page.data.titre} description={page.data.description}>
+  <header class="page-head">
+    <div class="wrap">
+      <Breadcrumb current={page.data.titre} />
+      <h1>{page.data.titre}</h1>
+      <p class="lede">{page.data.description}</p>
+    </div>
+  </header>
+  <div class="wrap prose"><Content /></div>
+</Base>

@@ -1,0 +1,96 @@
+---
+import '../styles/global.css';
+import { render } from 'astro:content';
+import { getSections, url, editorialPage } from '../data/site';
+import { VIEW_KEY, VIEWS, DEFAULT_VIEW } from '../lib/view-mode.mjs';
+const sections = await getSections();
+const { Content: Exchange } = await render(await editorialPage('pied-de-page'));
+
+interface Props { title?: string; description?: string; home?: boolean }
+const { title, home = false, description = "Compilation critique du Rassemblement national : articles, votes, positions et archives, classés par rubrique." } = Astro.props;
+const siteName = 'RN1PB?';
+const fullTitle = title ? `${title} · ${siteName}` : siteName;
+const current = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="application-name" content={siteName} />
+    <title>{fullTitle}</title>
+    <script is:inline define:vars={{ key: VIEW_KEY, views: VIEWS, fallback: DEFAULT_VIEW }}>
+      let view = fallback;
+      try { const v = localStorage.getItem(key); if (views.includes(v)) view = v; } catch {}
+      document.documentElement.dataset.vue = view;
+    </script>
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+  </head>
+  <body class={home ? 'is-home' : undefined}>
+    <a class="skip" href="#contenu">Aller au contenu</a>
+    <header class="site-header">
+      <div class="wrap bar">
+        <a class="brand" href={url()} aria-label="RN1PB? — accueil">
+          <span class="brand-text" aria-hidden="true">RN1PB<i>?</i></span>
+        </a>
+        <nav aria-label="Principal">
+          <details class="menu" data-menu>
+            <summary>Rubriques</summary>
+            <ul>
+              {sections.map((s) => (
+                <li><a href={url(`rubriques/${s.slug}/`)} aria-current={current === url(`rubriques/${s.slug}/`) ? 'page' : undefined}>{s.short}</a></li>
+              ))}
+            </ul>
+          </details>
+          <a href={url('recherche/')} class="nav-link" aria-current={current === url('recherche/') ? 'page' : undefined}>Recherche</a>
+          <a href={url('methode/')} class="nav-link" aria-current={current === url('methode/') ? 'page' : undefined}>Plus d’informations</a>
+        </nav>
+      </div>
+    </header>
+    <main id="contenu"><slot /></main>
+    <footer class="site-footer">
+      <div class="wrap foot">
+        <div>
+          <p class="foot-title">RN1PB<i>?</i></p>
+          <p>Ce site n’est affilié à aucun parti politique. Il rassemble des articles de presse et des sources publiques sur les agissements du Rassemblement National. Un travail militant pour rendre ces informations accessibles et permettre à chacun de se faire son opinion.</p>
+          <div class="foot-exchange"><Exchange /></div>
+        </div>
+        <ul class="foot-links">
+          <li><a href={url('recherche/')}>Recherche</a></li>
+          <li><a href={url('methode/')}>Plus d’informations</a></li>
+        </ul>
+        <p class="foot-note">Site statique, sans traceur ni service externe.</p>
+      </div>
+    </footer>
+    <script>
+      // Infobulle des icônes d'archive : on l'aligne à droite si elle dépasserait du bord de l'écran.
+      const placeTip = (e: Event) => {
+        const el = (e.target as Element | null)?.closest?.<HTMLElement>('.icon-link[data-tip]');
+        if (!el) return;
+        el.classList.remove('tip-end');
+        const rect = el.getBoundingClientRect();
+        const width = Math.min(256, (el.dataset.tip?.length ?? 0) * 7 + 20);
+        if (rect.left + width > document.documentElement.clientWidth - 8 && rect.right - width > 8) el.classList.add('tip-end');
+      };
+      document.addEventListener('mouseover', placeTip);
+      document.addEventListener('focusin', placeTip);
+    </script>
+    <script>
+      const menu = document.querySelector<HTMLDetailsElement>('[data-menu]');
+      if (menu) {
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' && menu.open) { menu.open = false; menu.querySelector('summary')?.focus(); }
+        });
+        document.addEventListener('click', (e) => {
+          if (menu.open && !menu.contains(e.target as Node)) menu.open = false;
+        });
+      }
+    </script>
+  </body>
+</html>

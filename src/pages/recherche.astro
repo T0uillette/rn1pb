@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import { render } from 'astro:content';
+import Filters from '../components/Filters.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { getSections, totals } from '../data/site';
+const sections = await getSections();
+const t = totals(sections);
+const rendered = await Promise.all(sections.map(async (section) => ({
+  ...section, ...(await render(section.entry)),
+})));
+---
+<Base title="Recherche" description="Rechercher dans toutes les sources de la compilation.">
+  <header class="page-head">
+    <div class="wrap">
+      <Breadcrumb current="Recherche" />
+      <h1>Recherche</h1>
+      <p class="lede">Filtrez les {t.entries} entrées par mot-clé, rubrique, marqueur ou présence d’archive. La recherche ignore les accents et se fait dans votre navigateur.</p>
+    </div>
+  </header>
+  <div class="wrap">
+    <Filters sections={sections} total={t.entries} />
+    {rendered.map((s) => (
+      <section class="group" data-group data-section={s.slug}>
+        <h2 class="group-title">{s.title}</h2>
+        <s.Content />
+      </section>
+    ))}
+  </div>
+</Base>
