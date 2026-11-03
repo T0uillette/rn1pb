@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import { render } from 'astro:content';
+import Filters from '../../components/Filters.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { getSections, url } from '../../data/site';
+
+export async function getStaticPaths() {
+  const sections = await getSections();
+  return sections.map((section, i) => ({
+    params: { slug: section.slug },
+    props: { section, i, prev: sections[i - 1], next: sections[i + 1] },
+  }));
+}
+const { section, i, prev, next } = Astro.props;
+const { Content } = await render(section.entry);
+---
+<Base title={section.title} description={section.description}>
+  <header class="page-head">
+    <div class="wrap">
+      <Breadcrumb current={section.title} />
+      <h1>{section.title}</h1>
+      <p class="lede">{section.description}</p>
+      <p class="note">{section.count} entrées recensées · liens vers les sources d’origine</p>
+    </div>
+  </header>
+  <div class="wrap">
+    <Filters total={section.count} />
+    <div class="rubric-content" data-group data-section={section.slug}><Content /></div>
+    <nav class="pager" aria-label="Rubriques voisines">
+      {prev ? <a href={url(`rubriques/${prev.slug}/`)} rel="prev"><small>Précédente</small><span>← {prev.short}</span></a> : <span />}
+      {next ? <a href={url(`rubriques/${next.slug}/`)} rel="next"><small>Suivante</small><span>{next.short} →</span></a> : <span />}
+    </nav>
+  </div>
+</Base>

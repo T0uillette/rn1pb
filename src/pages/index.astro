@@ -1,0 +1,50 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { getSections, totals, url, editorialPage } from '../data/site';
+const sections = await getSections();
+const page = await editorialPage('accueil');
+const { Content } = await render(page);
+const t = totals(sections);
+---
+<Base description={page.data.description} home>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-main">
+        {page.data.surtitre && <p class="kicker">{page.data.surtitre}</p>}
+        <h1><span>{page.data.titre}</span>{page.data.titre_accent && <> <em>{page.data.titre_accent}</em></>}</h1>
+        {page.data.accroche && <p class="pitch">{page.data.accroche}</p>}
+      </div>
+      <div class="hero-side">
+        <p class="lede">{page.data.description}</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href={url('recherche/')}>Rechercher dans les sources</a>
+          <a class="btn" href={url('methode/')}>Plus d’informations</a>
+        </div>
+      </div>
+      <dl class="stats" aria-label="Contenu de la compilation">
+        <div><dt>Entrées recensées</dt><dd>{t.entries}</dd></div>
+        <div><dt>Rubriques</dt><dd>{t.sections}</dd></div>
+        <div><dt>Archives et textes complets</dt><dd>{t.archives}</dd></div>
+      </dl>
+    </div>
+  </section>
+  <section class="wrap block" aria-labelledby="rubriques-titre">
+    <h2 class="section-title" id="rubriques-titre">{page.data.titre_rubriques ?? 'Les rubriques'}</h2>
+    <ol class="rubric-index">
+      {sections.map((s, i) => (
+        <li>
+          <a class="index-row" href={url(`rubriques/${s.slug}/`)}>
+            <span class="index-num" aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>
+            <span class="index-body">
+              <span class="index-title">{s.title}</span>
+              <span class="index-desc">{s.description}</span>
+            </span>
+            <span class="index-count">{s.count} <span>entrées</span></span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </section>
+  <section class="wrap block editorial-home"><Content /></section>
+</Base>

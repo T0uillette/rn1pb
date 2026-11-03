@@ -1,0 +1,11 @@
+---
+interface Props { current: string }
+import { url } from '../data/site';
+const { current } = Astro.props;
+---
+<nav class="crumbs" aria-label="Fil d’Ariane">
+  <ol>
+    <li><a href={url()}>Accueil</a></li>
+    <li><a href={Astro.url.pathname} aria-current="page">{current}</a></li>
+  </ol>
+</nav>
