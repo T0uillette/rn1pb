@@ -67,6 +67,7 @@ _(*) idéologies directement en lien avec l'idéologie fasciste\*_
 - [Bardella et ses écrits antisémites](https://www.mediapart.fr/journal/politique/280926/les-banques-sont-toutes-detenues-par-des-juifs-jordan-bardella-face-ses-ecrits-antisemites) [[A]](https://archive.fo/R9GYs) [[Texte complet]](https://www.reddit.com/r/rn1pb/comments/1wsgq8e/comment/pcl6ix2)
 - [Marine Le Pen se permet de faire une menace en mort à peine cachée](https://www.leparisien.fr/politique/des-menaces-de-mort-marine-le-pen-dit-a-mediapart-denfiler-son-costard-en-kevlar-une-deputee-ecologiste-saisit-le-procureur-de-la-republique-29-09-2026-ONA345AGZREBROZ2SMIHW2CIOU.php) [[A]](https://archive.fo/pPTw3)
 - [Jean Phillipe Tanguy ment sur ses liens avec Frédéric Chatillon, un leader du GUD, un groupuscule néo-nazi](https://www.mediapart.fr/journal/france/021026/marine-le-pen-et-le-radioactif-frederic-chatillon-le-mensonge-de-jean-philippe-tanguy?utm_source=chatgpt.com) [[A]](https://archive.ph/nbSLG) [[Texte complet]](https://www.reddit.com/r/rn1pb/comments/1wxams0/comment/pdrs7f9)
+- [Marine Le Pen et sa soeur ont dirigé un label vendant des disques pro-nazis](https://www.20min.ch/fr/story/france-les-soeurs-le-pen-auraient-commercialise-des-disques-pro-nazis-103659050) [[A]](https://archive.ph/b6OSH)
 
 ---
 
