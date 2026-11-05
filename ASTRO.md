@@ -9,7 +9,7 @@ content/                     ← les fichiers à modifier au quotidien
   liste.md                   # titre et introduction de « La liste » (toutes les entrées sur une page)
   proposer.md                # page « Proposer une source » : étapes et prompt IA
   proposer-encadre.md        # encadré « Ce qui nous aide à valider vite »
-  pied-de-page.md            # texte « Échanger » (lien Reddit) affiché dans le pied de page de toutes les pages
+  pied-de-page.md            # texte « Échanger » affiché dans le pied de page de toutes les pages
   sections/                  # un Markdown par rubrique
     projet.md
     cadres.md

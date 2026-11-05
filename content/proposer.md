@@ -27,7 +27,6 @@ description: "Vous avez repéré un article ou un document public qui a sa place
 
    Cliquez sur « Commit changes… », puis « Propose changes » et « Create pull request ». Dans la description, indiquez la date de l’article et la nature du fait. Nous relisons puis fusionnons : la source apparaît alors sur le site.
 
-   Pas de compte GitHub ? Vous pouvez aussi [publier la source sur r/rn1pb](https://www.reddit.com/r/rn1pb/submit) avec le lien de l’article, le lien d’archive et la rubrique proposée.
 
 ## Préparer sa proposition avec une IA
 
@@ -59,7 +58,7 @@ Une fois les deux réponses obtenues, en te fondant uniquement sur le contenu de
 4. Conseille la rubrique la plus adaptée et son fichier, en une phrase qui justifie ce choix ; si une autre rubrique est possible, mentionne-la. Rubriques :
    - Leur projet (projet.md) : ce que le parti propose et annonce vouloir faire ;
    - Les cadres (cadres.md) : dirigeants, figures et responsables nationaux ;
-   - Les crimes et délits (crimes-et-delits.md) : affaires, signalements et poursuites ;
+   - Les affaires judiciaires (crimes-et-delits.md) : affaires, signalements et poursuites ;
    - Les membres du parti (membres.md) : élus, candidats, militants et collaborateurs ;
    - Leurs votes à l’assemblée (votes.md) : votes du groupe RN à l’Assemblée nationale ;
    - L’histoire du parti (histoire.md) : origines du parti et paroles de ses fondateurs ;
