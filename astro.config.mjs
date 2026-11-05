@@ -16,7 +16,7 @@ export default defineConfig({
   site,
   base,
   trailingSlash: 'always',
-  markdown: { processor: unified({ rehypePlugins: [[editorialMarkdown, { revision: markdownRevision }]] }) },
+  markdown: { syntaxHighlight: false, processor: unified({ rehypePlugins: [[editorialMarkdown, { revision: markdownRevision }]] }) },
   server: { host: '127.0.0.1', port: 4321 },
   devToolbar: { enabled: false },
 });

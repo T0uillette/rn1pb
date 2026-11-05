@@ -1,0 +1,54 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { editorialPage } from '../data/site';
+const page = await editorialPage('proposer');
+const aside = await editorialPage('proposer-encadre');
+const { Content } = await render(page);
+const { Content: Aside } = await render(aside);
+---
+<Base title={page.data.titre} description={page.data.description}>
+  <PageHead title={page.data.titre} lede={page.data.description} />
+  <div class="wrap page-body proposer-layout">
+    <div class="prose proposer-main" data-prompts><Content /></div>
+    <aside class="aside-box grain" aria-labelledby="aide-titre">
+      <h2 id="aide-titre">{aside.data.titre}</h2>
+      <Aside />
+    </aside>
+  </div>
+</Base>
+
+<script>
+  // Chaque bloc de code de la page devient un prompt à copier, avec son bouton.
+  const copyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="9" y="9" width="12" height="12" rx="2" /><path d="M5 15V5a2 2 0 0 1 2-2h10" /></svg>';
+  const doneIcon = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 12.5l4.5 4.5L19 7.5" /></svg>';
+  for (const pre of document.querySelectorAll<HTMLPreElement>('[data-prompts] pre')) {
+    const box = document.createElement('div');
+    box.className = 'prompt';
+    box.innerHTML = `<div class="prompt-bar grain"><span>Prompt d’aide à la proposition</span><button type="button" class="btn btn-primary btn-sm"><span class="swap-icons">${copyIcon}${doneIcon}</span><span data-label>Copier le prompt</span></button></div>`;
+    const status = document.createElement('p');
+    status.className = 'prompt-error';
+    status.setAttribute('role', 'status');
+    pre.replaceWith(box);
+    box.append(pre);
+    box.after(status);
+    pre.tabIndex = 0;
+    pre.setAttribute('aria-label', 'Prompt à copier');
+    const button = box.querySelector('button')!;
+    const label = box.querySelector<HTMLElement>('[data-label]')!;
+    let timer: number | undefined;
+    button.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(pre.innerText.trim());
+        button.classList.add('is-done');
+        label.textContent = 'Prompt copié';
+        status.textContent = '';
+        clearTimeout(timer);
+        timer = window.setTimeout(() => { button.classList.remove('is-done'); label.textContent = 'Copier le prompt'; }, 2400);
+      } catch {
+        status.textContent = 'La copie automatique n’a pas fonctionné : sélectionnez le texte du prompt puis copiez-le (Ctrl+C ou Cmd+C).';
+      }
+    });
+  }
+</script>

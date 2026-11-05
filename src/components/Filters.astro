@@ -1,34 +1,65 @@
 ---
-interface Props { sections?: { slug: string; short: string; count: number }[]; total: number }
-const { sections, total } = Astro.props;
+interface Props { sections?: { slug: string; short: string; count: number }[]; total: number; views?: boolean; reset?: boolean; label?: string; collapsible?: boolean }
+const { sections, total, views = true, reset = false, label = 'Rechercher', collapsible = false } = Astro.props;
 ---
-<div class="filters" data-filters>
-  <label class="search">
-    <span class="sr">Rechercher</span>
-    <input type="search" placeholder="Rechercher un titre, un nom, un site…" autocomplete="off" data-q />
-  </label>
-  <div class="toggles">
-    <label class="toggle"><input type="checkbox" data-fasc /> <span class="mark mark-inline" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="M12 3.5 2.5 20h19zM12 10v4.5M12 17.2v.3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></span> Lien avec l’idéologie fasciste <small>(signalement éditorial)</small></label>
-    <label class="toggle"><input type="checkbox" data-arch /> Avec archive</label>
+<div class:list={['filters', { 'filters-compact': collapsible }]} data-filters>
+  <div class="filters-bar">
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" /></svg>
+      <span class="sr">{label}</span>
+      <input type="search" placeholder="Rechercher un titre, un nom, un site…" autocomplete="off" data-q />
+    </label>
+    {collapsible ? (
+      <details class="filter-menu" data-filter-menu>
+        <summary class="filter-toggle">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 6h16M7 12h10M10 18h4" /></svg>
+          Filtres
+          <span class="filter-badge" data-active hidden><span data-active-count>0</span><span class="sr"> filtre(s) actif(s)</span></span>
+          <svg class="filter-chevron" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" /></svg>
+        </summary>
+        <div class="filter-panel">
+          <fieldset>
+            <legend>Afficher</legend>
+            <label class="toggle"><input type="checkbox" data-arch /> Seulement les entrées avec archive</label>
+          </fieldset>
+          {sections && (
+            <fieldset>
+              <legend>Rubrique</legend>
+              <div class="chips" role="group" aria-label="Rubriques">
+                <button type="button" class="chip-btn is-on" aria-pressed="true" data-sec="">Toutes</button>
+                {sections.map((s) => <button type="button" class="chip-btn" aria-pressed="false" data-sec={s.slug}>{s.short} <small>{s.count}</small></button>)}
+              </div>
+            </fieldset>
+          )}
+        </div>
+      </details>
+    ) : (
+      <>
+        <div class="toggles">
+          <label class="toggle"><input type="checkbox" data-arch /> Avec archive</label>
+        </div>
+        {sections && (
+          <div class="chips" role="group" aria-label="Rubriques">
+            <button type="button" class="chip-btn is-on" aria-pressed="true" data-sec="">Toutes</button>
+            {sections.map((s) => <button type="button" class="chip-btn" aria-pressed="false" data-sec={s.slug}>{s.short} <small>{s.count}</small></button>)}
+          </div>
+        )}
+      </>
+    )}
   </div>
-  {sections && (
-    <div class="chips" role="group" aria-label="Rubriques">
-      <button type="button" class="chip-btn is-on" aria-pressed="true" data-sec="">Toutes</button>
-      {sections.map((s) => <button type="button" class="chip-btn" aria-pressed="false" data-sec={s.slug}>{s.short} <small>{s.count}</small></button>)}
-    </div>
-  )}
   <div class="filters-foot">
     <p class="result-count" aria-live="polite"><span data-count>{total}</span> résultat(s)</p>
-    <div class="view-toggle" role="group" aria-label="Mode d’affichage" data-view-toggle hidden>
-      <button type="button" aria-pressed="false" data-view="liste">
+    {reset && <button type="button" class="link-btn" data-reset hidden>Tout afficher</button>}
+    {views && <div class="view-toggle" role="group" aria-label="Mode d’affichage" data-view-toggle hidden>
+      <button type="button" aria-pressed="true" data-view="liste">
         <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg>
         Liste
       </button>
-      <button type="button" aria-pressed="true" data-view="tuiles">
+      <button type="button" aria-pressed="false" data-view="tuiles">
         <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" /></svg>
         Tuiles
       </button>
-    </div>
+    </div>}
   </div>
 </div>
 <p class="empty" data-empty hidden>Aucune entrée ne correspond à ces critères. Essayez moins de mots ou retirez un filtre.</p>
@@ -38,13 +69,16 @@ const { sections, total } = Astro.props;
   const root = document.querySelector<HTMLElement>('[data-filters]');
   if (root) {
     const q = root.querySelector<HTMLInputElement>('[data-q]')!;
-    const fasc = root.querySelector<HTMLInputElement>('[data-fasc]')!;
     const arch = root.querySelector<HTMLInputElement>('[data-arch]')!;
     const countEl = root.querySelector<HTMLElement>('[data-count]')!;
     const empty = document.querySelector<HTMLElement>('[data-empty]');
     const buttons = [...root.querySelectorAll<HTMLButtonElement>('[data-sec]')];
     const items = [...document.querySelectorAll<HTMLElement>('li.entry')];
     const groups = [...document.querySelectorAll<HTMLElement>('[data-group]')];
+    const shown = [...document.querySelectorAll<HTMLElement>('[data-shown]')];
+    const resetButton = root.querySelector<HTMLButtonElement>('[data-reset]');
+    const activeBadge = root.querySelector<HTMLElement>('[data-active]');
+    const activeCount = root.querySelector<HTMLElement>('[data-active-count]');
     let sec = '';
     const apply = () => {
       const terms = norm(q.value).split(/\s+/).filter(Boolean);
@@ -53,7 +87,6 @@ const { sections, total } = Astro.props;
         const hay = norm(li.dataset.text ?? '');
         const ok =
           terms.every((t) => hay.includes(t)) &&
-          (!fasc.checked || li.dataset.fascisme === '1') &&
           (!arch.checked || li.dataset.archive === '1') &&
            (!sec || li.closest<HTMLElement>('[data-section]')?.dataset.section === sec);
         li.hidden = !ok;
@@ -64,22 +97,46 @@ const { sections, total } = Astro.props;
         if (li.querySelector('li.entry:not([hidden])')) li.hidden = false;
       }
       for (const g of groups) g.hidden = !g.querySelector('li.entry:not([hidden])');
+      // Compteurs par rubrique (sommaire de la liste).
+      for (const el of shown) {
+        const group = groups.find((g) => g.dataset.section === el.dataset.shown);
+        el.textContent = String(group ? group.querySelectorAll('li.entry:not([hidden])').length : 0);
+      }
       countEl.textContent = String(n);
       if (empty) empty.hidden = n > 0;
+      if (resetButton) resetButton.hidden = !(terms.length || arch.checked || sec);
+      const active = Number(arch.checked) + Number(!!sec);
+      if (activeBadge) activeBadge.hidden = !active;
+      if (activeCount) activeCount.textContent = String(active);
     };
+    const pick = (b: HTMLButtonElement) => {
+      sec = b.dataset.sec ?? '';
+      buttons.forEach((x) => {
+        x.classList.toggle('is-on', x === b);
+        x.setAttribute('aria-pressed', String(x === b));
+      });
+      apply();
+    };
+    resetButton?.addEventListener('click', () => {
+      q.value = '';
+      arch.checked = false;
+      if (buttons[0]) pick(buttons[0]);
+      else apply();
+      q.focus();
+    });
+    // Menu dépliant des filtres : se ferme avec Échap ou en cliquant ailleurs.
+    const menu = root.querySelector<HTMLDetailsElement>('[data-filter-menu]');
+    if (menu) {
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && menu.open) { menu.open = false; menu.querySelector('summary')?.focus(); }
+      });
+      document.addEventListener('click', (e) => {
+        if (menu.open && !menu.contains(e.target as Node)) menu.open = false;
+      });
+    }
     q.addEventListener('input', apply);
-    fasc.addEventListener('change', apply);
     arch.addEventListener('change', apply);
-    buttons.forEach((b) =>
-      b.addEventListener('click', () => {
-        sec = b.dataset.sec ?? '';
-        buttons.forEach((x) => {
-          x.classList.toggle('is-on', x === b);
-          x.setAttribute('aria-pressed', String(x === b));
-        });
-        apply();
-      }),
-    );
+    buttons.forEach((b) => b.addEventListener('click', () => pick(b)));
     const toggle = root.querySelector<HTMLElement>('[data-view-toggle]');
     if (toggle) {
       const viewButtons = [...toggle.querySelectorAll<HTMLButtonElement>('[data-view]')];

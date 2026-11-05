@@ -24,12 +24,12 @@ Le nom d’une rubrique ne préjuge pas de la situation judiciaire de toutes les
 
 ## Comprendre les icônes
 
-**(\*)** — Signale un lien avec l’idéologie fasciste, selon l’appréciation éditoriale du projet. Ce repère n’est pas une qualification juridique.
+`[A]` Ouvre une copie archivée de la source, lorsqu’elle est disponible. Elle aide à retrouver un article si la page d’origine change ou disparaît.
 
-`[A]` — Ouvre une copie archivée de la source, lorsqu’elle est disponible. Elle aide à retrouver un article si la page d’origine change ou disparaît.
-
-`[Texte complet]` — Donne accès au texte de l’article lorsqu’un lien est proposé, notamment sur Reddit. Les archives et les textes complets sont hébergés sur des sites externes.
+`[Texte complet]` Donne accès au texte de l’article lorsqu’un lien est proposé, notamment sur Reddit. Les archives et les textes complets sont hébergés sur des sites externes.
 
 ## Échanger et proposer des sources
 
 Vous souhaitez discuter d’un article ou en proposer un autre ? Retrouvez la communauté sur [Reddit](https://www.reddit.com/r/rn1pb/).
+
+**[Comment proposer une source](../proposer/)**

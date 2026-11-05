@@ -11,8 +11,6 @@ Les intitulés reflètent la position éditoriale du projet. Les sources sont l�
 
 ## Légende
 
-**(\*)** : signalement éditorial d’idéologies directement en lien avec l’idéologie fasciste, selon la qualification de la compilation. Ce n’est pas une qualification juridique.
+`[A]` Lien d’archive. Les pages web ne sont peut-être pas éternelles : les articles archivés disposent d’un lien d’archive associé.
 
-`[A]` : lien d’archive. Les pages web ne sont peut-être pas éternelles : les articles archivés disposent d’un lien d’archive associé.
-
-`[Texte complet]` : lien vers le texte complet de l’article, lorsqu’il est proposé.
+`[Texte complet]` Lien vers le texte complet de l’article, lorsqu’il est proposé.

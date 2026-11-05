@@ -1,0 +1,13 @@
+---
+import Breadcrumb from './Breadcrumb.astro';
+interface Props { title: string; lede?: string }
+const { title, lede } = Astro.props;
+---
+<header class="page-head grain">
+  <div class="wrap">
+    <Breadcrumb current={title} />
+    <h1 class="enter">{title}</h1>
+    {lede && <p class="lede enter">{lede}</p>}
+    <slot />
+  </div>
+</header>
