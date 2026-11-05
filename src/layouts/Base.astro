@@ -48,7 +48,7 @@ const cta = { href: url('proposer/'), label: 'Proposer une source' };
         <a class="brand" href={url()} aria-label="RN1PB? — accueil">
           <span class="plate" aria-hidden="true"><span>RN1PB<i>?</i></span></span>
         </a>
-        <nav aria-label="Principal">
+        <nav class="nav-desktop" aria-label="Principal">
           <details class="menu" data-menu>
             <summary class="nav-link">Rubriques <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></svg></summary>
             <ul>
@@ -60,6 +60,26 @@ const cta = { href: url('proposer/'), label: 'Proposer une source' };
           {links.map((l) => <a href={l.href} class="nav-link" aria-current={current === l.href ? 'page' : undefined}>{l.label}</a>)}
           <a href={cta.href} class="btn btn-primary btn-cta" aria-current={current === cta.href ? 'page' : undefined}><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" /></svg> {cta.label}</a>
         </nav>
+        <div class="nav-mobile">
+          <a href={cta.href} class="btn btn-primary btn-cta" aria-current={current === cta.href ? 'page' : undefined}><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" /></svg> Proposer</a>
+          <details class="mobile-menu" data-menu>
+            <summary class="burger" aria-label="Menu">
+              <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="burger-open" d="M4 7h16M4 12h16M4 17h16" /><path class="burger-close" d="M6 6l12 12M18 6L6 18" /></svg>
+            </summary>
+            <nav class="mobile-panel" aria-label="Menu principal">
+              <ul class="mobile-links">
+                {links.map((l) => <li><a href={l.href} aria-current={current === l.href ? 'page' : undefined}>{l.label}</a></li>)}
+              </ul>
+              <p class="mobile-heading">Rubriques</p>
+              <ul class="mobile-rubrics">
+                {sections.map((s) => (
+                  <li><a href={url(`rubriques/${s.slug}/`)} aria-current={current === url(`rubriques/${s.slug}/`) ? 'page' : undefined}>{s.short}</a></li>
+                ))}
+              </ul>
+              <a href={cta.href} class="btn btn-primary mobile-cta">{cta.label}</a>
+            </nav>
+          </details>
+        </div>
       </div>
     </header>
     <main id="contenu"><slot /></main>
@@ -78,13 +98,16 @@ const cta = { href: url('proposer/'), label: 'Proposer une source' };
       </div>
     </footer>
     <script>
-      const menu = document.querySelector<HTMLDetailsElement>('[data-menu]');
-      if (menu) {
+      // Menus dépliants de l'en-tête : se ferment avec Échap, en cliquant ailleurs ou sur un lien.
+      for (const menu of document.querySelectorAll<HTMLDetailsElement>('[data-menu]')) {
         document.addEventListener('keydown', (e) => {
           if (e.key === 'Escape' && menu.open) { menu.open = false; menu.querySelector('summary')?.focus(); }
         });
         document.addEventListener('click', (e) => {
           if (menu.open && !menu.contains(e.target as Node)) menu.open = false;
+        });
+        menu.addEventListener('click', (e) => {
+          if ((e.target as Element).closest('a')) menu.open = false;
         });
       }
     </script>
