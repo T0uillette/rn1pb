@@ -42,9 +42,24 @@ const rendered = await Promise.all(sections.map(async (section, i) => ({
           </div>
           <p class="liste-desc">{s.description} <span>{s.count} entrées</span></p>
           <s.Content />
-          <a class="liste-top" href="#sommaire">Retour au sommaire</a>
         </section>
       ))}
     </div>
   </div>
+  <a class="fab" href="#sommaire" data-fab>
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 19V5M5 12l7-7 7 7" /></svg>
+    Sommaire
+  </a>
 </Base>
+
+<script>
+  // Le bouton flottant n'apparaît qu'une fois le sommaire sorti de l'écran.
+  const fab = document.querySelector<HTMLElement>('[data-fab]');
+  const toc = document.getElementById('sommaire');
+  if (fab && toc && 'IntersectionObserver' in window) {
+    fab.classList.add('is-hidden');
+    new IntersectionObserver(([entry]) => {
+      fab.classList.toggle('is-hidden', entry.isIntersecting || entry.boundingClientRect.top > 0);
+    }).observe(toc);
+  }
+</script>
