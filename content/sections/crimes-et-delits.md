@@ -1,6 +1,6 @@
 ---
-titre: "Les crimes et délits"
-titre_court: "Crimes et délits"
+titre: "Les affaires judiciaires"
+titre_court: "Affaires judiciaires"
 ordre: 3
 description: "Affaires, signalements et poursuites relayés par la presse."
 ---

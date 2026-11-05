@@ -120,7 +120,7 @@ test('la légende affiche les mêmes icônes que les liens, sans lien ni ancien 
 });
 
 test('un lien seul en gras devient un bouton d’action', () => {
-  const link = element('a', { href: 'https://www.reddit.com/r/rn1pb/submit' }, [text('Publier')]);
+  const link = element('a', { href: 'https://example.com/submit' }, [text('Publier')]);
   const paragraph = element('p', {}, [element('strong', {}, [link])]);
   const mixed = element('p', {}, [text('Voir '), element('strong', {}, [element('a', { href: '#x' }, [text('ici')])])]);
   run([paragraph, mixed]);

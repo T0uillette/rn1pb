@@ -3,4 +3,4 @@ titre: "Échanger"
 description: "Texte du pied de page, affiché sur toutes les pages."
 ---
 
-RN1PB est aussi sur [Reddit](https://www.reddit.com/r/rn1pb/) : vous pouvez réagir aux articles et en proposer d’autres.
+Vous pouvez contribuer à cette compilation en proposant des sources sur GitHub.
