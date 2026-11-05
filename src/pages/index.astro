@@ -8,21 +8,22 @@ const { Content } = await render(page);
 const t = totals(sections);
 ---
 <Base description={page.data.description} home>
-  <section class="hero">
+  <section class="hero grain">
+    <svg class="hero-slashes" viewBox="0 0 640 560" aria-hidden="true" focusable="false"><path d="M60 560 L240 0 M240 560 L420 0 M420 560 L600 0" /></svg>
     <div class="wrap hero-grid">
       <div class="hero-main">
         {page.data.surtitre && <p class="kicker">{page.data.surtitre}</p>}
-        <h1><span>{page.data.titre}</span>{page.data.titre_accent && <> <em>{page.data.titre_accent}</em></>}</h1>
-        {page.data.accroche && <p class="pitch">{page.data.accroche}</p>}
+        <h1 class="enter"><span class="sr">{page.data.titre}</span><span class="plate plate-xl" aria-hidden="true"><span>RN1PB<i>?</i></span></span></h1>
+        {page.data.accroche && <p class="pitch enter">{page.data.accroche}</p>}
       </div>
-      <div class="hero-side">
+      <div class="hero-side enter">
         <p class="lede">{page.data.description}</p>
         <div class="hero-actions">
-          <a class="btn btn-primary" href={url('recherche/')}>Rechercher dans les sources</a>
+          <a class="btn btn-primary" href={url('liste/')}><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01" /></svg> Voir la liste des sources</a>
           <a class="btn" href={url('methode/')}>Plus d’informations</a>
         </div>
       </div>
-      <dl class="stats" aria-label="Contenu de la compilation">
+      <dl class="stats enter" aria-label="Contenu de la compilation">
         <div><dt>Entrées recensées</dt><dd>{t.entries}</dd></div>
         <div><dt>Rubriques</dt><dd>{t.sections}</dd></div>
         <div><dt>Archives et textes complets</dt><dd>{t.archives}</dd></div>
@@ -30,7 +31,7 @@ const t = totals(sections);
     </div>
   </section>
   <section class="wrap block" aria-labelledby="rubriques-titre">
-    <h2 class="section-title" id="rubriques-titre">{page.data.titre_rubriques ?? 'Les rubriques'}</h2>
+    <h2 class="title-slash title-lg" id="rubriques-titre">{page.data.titre_rubriques ?? 'Les rubriques'}</h2>
     <ol class="rubric-index">
       {sections.map((s, i) => (
         <li>

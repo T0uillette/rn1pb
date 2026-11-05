@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { render } from 'astro:content';
+import Filters from '../components/Filters.astro';
+import PageHead from '../components/PageHead.astro';
+import { getSections, totals, url, editorialPage } from '../data/site';
+const page = await editorialPage('liste');
+const sections = await getSections();
+const t = totals(sections);
+const rendered = await Promise.all(sections.map(async (section, i) => ({
+  ...section, num: String(i + 1).padStart(2, '0'), ...(await render(section.entry)),
+})));
+---
+<Base title={page.data.titre} description={page.data.description}>
+  <PageHead title={page.data.titre} lede={page.data.description} />
+  <div class="wrap page-body liste-layout">
+    <aside class="liste-side">
+      <nav id="sommaire" class="toc grain" aria-labelledby="sommaire-titre">
+        <h2 id="sommaire-titre">Sommaire</h2>
+        <ol>
+          {rendered.map((s) => (
+            <li><a href={`#${s.slug}`}><span><span class="toc-num" aria-hidden="true">{s.num}</span>{s.short}</span><span class="toc-count" data-shown={s.slug}>{s.count}</span></a></li>
+          ))}
+        </ol>
+      </nav>
+      <table class="brief">
+        <caption>En bref</caption>
+        <tbody>
+          <tr><th scope="row">Entrées recensées</th><td>{t.entries}</td></tr>
+          <tr><th scope="row">Rubriques</th><td>{t.sections}</td></tr>
+          <tr><th scope="row">Archives et textes complets</th><td>{t.archives}</td></tr>
+        </tbody>
+      </table>
+    </aside>
+    <div class="liste-main stack">
+      <Filters sections={sections} total={t.entries} views={false} reset collapsible label="Filtrer la liste" />
+      {rendered.map((s) => (
+        <section class="liste-group" id={s.slug} data-group data-section={s.slug}>
+          <div class="liste-head">
+            <h2 class="title-slash"><span class="liste-num" aria-hidden="true">{s.num}</span>{s.title}</h2>
+            <a href={url(`rubriques/${s.slug}/`)}>Voir la rubrique</a>
+          </div>
+          <p class="liste-desc">{s.description} <span>{s.count} entrées</span></p>
+          <s.Content />
+          <a class="liste-top" href="#sommaire">Retour au sommaire</a>
+        </section>
+      ))}
+    </div>
+  </div>
+</Base>

@@ -3,6 +3,8 @@ import '../styles/global.css';
 import { render } from 'astro:content';
 import { getSections, url, editorialPage } from '../data/site';
 import { VIEW_KEY, VIEWS, DEFAULT_VIEW } from '../lib/view-mode.mjs';
+import archivoUrl from '../styles/fonts/archivo-italic-latin.woff2?url';
+import atkinsonUrl from '../styles/fonts/atkinson-400-latin.woff2?url';
 const sections = await getSections();
 const { Content: Exchange } = await render(await editorialPage('pied-de-page'));
 
@@ -11,6 +13,11 @@ const { title, home = false, description = "Compilation critique du Rassemblemen
 const siteName = 'RN1PB?';
 const fullTitle = title ? `${title} · ${siteName}` : siteName;
 const current = Astro.url.pathname;
+const links = [
+  { href: url('liste/'), label: 'La liste' },
+  { href: url('methode/'), label: 'Plus d’informations' },
+];
+const cta = { href: url('proposer/'), label: 'Proposer une source' };
 ---
 <!doctype html>
 <html lang="fr">
@@ -18,7 +25,7 @@ const current = Astro.url.pathname;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <meta name="color-scheme" content="light dark" />
+    <meta name="color-scheme" content="light" />
     <meta property="og:site_name" content={siteName} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
@@ -30,6 +37,8 @@ const current = Astro.url.pathname;
       try { const v = localStorage.getItem(key); if (views.includes(v)) view = v; } catch {}
       document.documentElement.dataset.vue = view;
     </script>
+    <link rel="preload" href={archivoUrl} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={atkinsonUrl} as="font" type="font/woff2" crossorigin />
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
   </head>
   <body class={home ? 'is-home' : undefined}>
@@ -37,50 +46,37 @@ const current = Astro.url.pathname;
     <header class="site-header">
       <div class="wrap bar">
         <a class="brand" href={url()} aria-label="RN1PB? — accueil">
-          <span class="brand-text" aria-hidden="true">RN1PB<i>?</i></span>
+          <span class="plate" aria-hidden="true"><span>RN1PB<i>?</i></span></span>
         </a>
         <nav aria-label="Principal">
           <details class="menu" data-menu>
-            <summary>Rubriques</summary>
+            <summary class="nav-link">Rubriques <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></svg></summary>
             <ul>
               {sections.map((s) => (
                 <li><a href={url(`rubriques/${s.slug}/`)} aria-current={current === url(`rubriques/${s.slug}/`) ? 'page' : undefined}>{s.short}</a></li>
               ))}
             </ul>
           </details>
-          <a href={url('recherche/')} class="nav-link" aria-current={current === url('recherche/') ? 'page' : undefined}>Recherche</a>
-          <a href={url('methode/')} class="nav-link" aria-current={current === url('methode/') ? 'page' : undefined}>Plus d’informations</a>
+          {links.map((l) => <a href={l.href} class="nav-link" aria-current={current === l.href ? 'page' : undefined}>{l.label}</a>)}
+          <a href={cta.href} class="btn btn-primary btn-cta" aria-current={current === cta.href ? 'page' : undefined}><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14" /></svg> {cta.label}</a>
         </nav>
       </div>
     </header>
     <main id="contenu"><slot /></main>
-    <footer class="site-footer">
+    <footer class="site-footer grain">
       <div class="wrap foot">
-        <div>
-          <p class="foot-title">RN1PB<i>?</i></p>
+        <div class="foot-main">
+          <p class="foot-title"><span class="plate" aria-hidden="true"><span>RN1PB<i>?</i></span></span><span class="sr">RN1PB?</span></p>
           <p>Ce site n’est affilié à aucun parti politique. Il rassemble des articles de presse et des sources publiques sur les agissements du Rassemblement National. Un travail militant pour rendre ces informations accessibles et permettre à chacun de se faire son opinion.</p>
           <div class="foot-exchange"><Exchange /></div>
         </div>
         <ul class="foot-links">
-          <li><a href={url('recherche/')}>Recherche</a></li>
-          <li><a href={url('methode/')}>Plus d’informations</a></li>
+          {links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+          <li><a class="btn btn-primary btn-cta" href={cta.href}>{cta.label}</a></li>
         </ul>
         <p class="foot-note">Site statique, sans traceur ni service externe.</p>
       </div>
     </footer>
-    <script>
-      // Infobulle des icônes d'archive : on l'aligne à droite si elle dépasserait du bord de l'écran.
-      const placeTip = (e: Event) => {
-        const el = (e.target as Element | null)?.closest?.<HTMLElement>('.icon-link[data-tip]');
-        if (!el) return;
-        el.classList.remove('tip-end');
-        const rect = el.getBoundingClientRect();
-        const width = Math.min(256, (el.dataset.tip?.length ?? 0) * 7 + 20);
-        if (rect.left + width > document.documentElement.clientWidth - 8 && rect.right - width > 8) el.classList.add('tip-end');
-      };
-      document.addEventListener('mouseover', placeTip);
-      document.addEventListener('focusin', placeTip);
-    </script>
     <script>
       const menu = document.querySelector<HTMLDetailsElement>('[data-menu]');
       if (menu) {

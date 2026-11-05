@@ -4,6 +4,7 @@ import remarkParse from 'remark-parse';
 // Libellés partagés entre les liens d'archive et les icônes de la légende.
 const archiveTitle = (number) => `Consulter l’archive${number ? ` ${number}` : ''}`;
 const FULL_TEXT_TITLE = 'Lire le texte complet';
+const ARCHIVE_LABEL = /^\[(?:A\d*|Texte complet|\(.*\))\]$/;
 
 export function textOf(node) {
   return node.value ?? (node.children ?? []).map(textOf).join('');
@@ -15,7 +16,7 @@ export function contentStats(markdown) {
   let archives = 0;
   function visit(node) {
     if (node.type === 'listItem') entries++;
-    if (node.type === 'link' && /^\[(?:A\d*|Texte complet|\(.*\))\]$/.test(textOf(node))) archives++;
+    if (node.type === 'link' && ARCHIVE_LABEL.test(textOf(node))) archives++;
     node.children?.forEach(visit);
   }
   visit(root);
@@ -35,40 +36,7 @@ const svg = (text) => ({
   }],
 });
 
-export const FASCISM_LABEL = 'Signalement éditorial de la compilation : idéologie directement en lien avec l’idéologie fasciste. Ce n’est pas une qualification juridique.';
 export const NEW_TAB = 'nouvel onglet';
-
-const warningIcon = () => ({
-  type: 'element', tagName: 'svg',
-  properties: { viewBox: '0 0 24 24', ariaHidden: 'true', focusable: 'false' },
-  children: [{
-    type: 'element', tagName: 'path',
-    properties: {
-      d: 'M12 3.5 2.5 20h19zM12 10v4.5M12 17.2v.3',
-      fill: 'none', stroke: 'currentColor', strokeWidth: '2',
-      strokeLinecap: 'round', strokeLinejoin: 'round',
-    }, children: [],
-  }],
-});
-
-// Remplace chaque « (*) » du texte par une icône focusable à infobulle, sans toucher au Markdown.
-function fascismMarker() {
-  return {
-    type: 'element', tagName: 'span',
-    properties: { className: ['mark', 'mark-fascisme'], role: 'img', tabIndex: 0, ariaLabel: FASCISM_LABEL, 'data-tip': FASCISM_LABEL },
-    children: [warningIcon()],
-  };
-}
-
-function markText(children) {
-  return children.flatMap((child) => {
-    if (child.type !== 'text' || !child.value.includes('(*)')) return [child];
-    return child.value.split('(*)').flatMap((part, i) => [
-      ...(i ? [fascismMarker()] : []),
-      ...(part ? [{ type: 'text', value: part }] : []),
-    ]);
-  });
-}
 
 const isExternal = (href) => /^https?:\/\//.test(String(href ?? ''));
 
@@ -92,9 +60,8 @@ export default function editorialMarkdown() {
         const fullText = label === '[Texte complet]';
         if (archive || fullText) {
           const title = fullText ? FULL_TEXT_TITLE : archiveTitle(archive[1]);
-          node.properties = { ...node.properties, className: ['chip', 'chip-archive', 'icon-link'], 'data-tip': title, ariaLabel: title };
-          node.children = [svg(fullText)];
-          if (archive?.[1]) node.children.push({ type: 'element', tagName: 'sup', properties: { ariaHidden: 'true' }, children: [{ type: 'text', value: archive[1] }] });
+          node.properties = { ...node.properties, className: ['chip', fullText ? 'chip-fulltext' : 'chip-archive', 'icon-link'], ariaLabel: title };
+          node.children = [svg(fullText), { type: 'element', tagName: 'span', properties: { className: ['icon-label'], ariaHidden: 'true' }, children: [{ type: 'text', value: title }] }];
         }
         if (String(node.properties?.href).startsWith('www.')) node.properties.href = `https://${node.properties.href}`;
         if (isExternal(node.properties?.href)) {
@@ -125,10 +92,23 @@ export default function editorialMarkdown() {
         }
       }
 
-      if (node.tagName === 'ul' || node.tagName === 'ol') {
-        node.properties = { ...node.properties, className: [parent?.tagName === 'li' ? 'children' : 'entries'] };
+      // Un paragraphe réduit à un lien en gras devient un bouton d'action.
+      if (node.tagName === 'p') {
+        const content = node.children.filter((child) => child.type !== 'text' || child.value.trim());
+        const link = content[0]?.tagName === 'strong' && content.length === 1 && content[0].children.length === 1 && content[0].children[0].tagName === 'a' ? content[0].children[0] : null;
+        if (link) {
+          node.properties = { ...node.properties, className: ['action'] };
+          link.properties = { ...link.properties, className: ['btn', 'btn-primary'] };
+          node.children = [link];
+        }
       }
-      if (node.tagName === 'li') {
+
+      if (node.tagName === 'ul' || node.tagName === 'ol') {
+        // Une liste dont les éléments commencent par un titre est une suite d'étapes, pas une liste d'entrées.
+        const steps = node.children.some((li) => /^h[2-6]$/.test(li.children?.find((child) => child.type === 'element')?.tagName ?? ''));
+        node.properties = { ...node.properties, className: [steps ? 'steps' : parent?.tagName === 'li' ? 'children' : 'entries'] };
+      }
+      if (node.tagName === 'li' && !parent?.properties?.className?.includes('steps')) {
         // Une liste Markdown compacte n'a pas de balise <p> autour de son texte.
         if (!node.children.some((child) => child.tagName === 'p')) {
           const inline = node.children.filter((child) => !['ul', 'ol'].includes(child.tagName));
@@ -142,8 +122,7 @@ export default function editorialMarkdown() {
         node.properties = {
           ...node.properties, className: ['entry'],
           'data-text': plain + ' ' + links.map((link) => link.properties.href).join(' '),
-          'data-fascisme': plain.includes('(*)') ? '1' : '0',
-          'data-archive': links.some((link) => /^\[(?:A\d*|Texte complet|\(.*\))\]$/.test(textOf(link))) ? '1' : '0',
+          'data-archive': links.some((link) => ARCHIVE_LABEL.test(textOf(link))) ? '1' : '0',
         };
         if (paragraph && primary) {
           primary.properties = { ...primary.properties, className: ['entry-title'] };
@@ -158,14 +137,36 @@ export default function editorialMarkdown() {
             type: 'element', tagName: 'span', properties: { className: ['entry-source'] },
             children: [{ type: 'text', value: host }],
           }] : [];
-          if (meta.length || after.some((child) => textOf(child).trim())) paragraph.children.push({
-            type: 'element', tagName: 'div', properties: { className: ['entry-meta'] }, children: [...meta, ...after],
+          // Les liens d'archive et de texte complet sont regroupés (texte complet en premier, archives ensuite),
+          // le reste du texte (précisions) suit la source.
+          const isAction = (child) => child.tagName === 'a' && ARCHIVE_LABEL.test(textOf(child));
+          const actions = after.filter(isAction).sort((x, y) => (textOf(y) === '[Texte complet]') - (textOf(x) === '[Texte complet]'));
+          const rest = after.filter((child) => !isAction(child));
+          if (rest.some((child) => textOf(child).trim())) meta.push({ type: 'element', tagName: 'span', properties: { className: ['entry-note'] }, children: rest });
+          if (actions.length) meta.push({ type: 'element', tagName: 'span', properties: { className: ['entry-actions'] }, children: actions });
+          if (meta.length) paragraph.children.push({
+            type: 'element', tagName: 'div', properties: { className: ['entry-meta'] }, children: meta,
           });
         }
       }
-      if (node.children && !['a', 'svg', 'code', 'pre'].includes(node.tagName)) node.children = markText(node.children);
       node.children?.forEach((child) => visit(child, node));
     }
     visit(tree);
+    sectionize(tree);
   };
+}
+
+// Regroupe chaque titre de niveau 2 et ce qui le suit dans une <section>, pour la mise en page.
+function sectionize(tree) {
+  if (!tree.children?.some((child) => child.tagName === 'h2')) return;
+  const children = [];
+  let current = null;
+  for (const child of tree.children) {
+    if (child.tagName === 'h2') {
+      current = { type: 'element', tagName: 'section', properties: { className: ['md-section'] }, children: [child] };
+      children.push(current);
+    } else if (current) current.children.push(child);
+    else children.push(child);
+  }
+  tree.children = children;
 }

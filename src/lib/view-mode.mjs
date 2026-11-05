@@ -1,12 +1,12 @@
 // Mode d'affichage des entrées (liste ou tuiles), mémorisé localement et partagé entre les pages.
 export const VIEW_KEY = 'rn1pb:affichage';
 export const VIEWS = ['liste', 'tuiles'];
-export const DEFAULT_VIEW = 'tuiles';
+export const DEFAULT_VIEW = 'liste';
 
 export const normalizeView = (value) => (VIEWS.includes(value) ? value : DEFAULT_VIEW);
 
-// Le stockage peut être absent, bloqué ou plein : on retombe alors sur le mode par défaut (tuiles), sans erreur.
-// Seul un choix explicite « liste » (clic sur le bouton) est stocké puis respecté.
+// Le stockage peut être absent, bloqué ou plein : on retombe alors sur le mode par défaut (liste), sans erreur.
+// Seul un choix explicite (clic sur un bouton) est stocké puis respecté.
 export function readView(storage) {
   try {
     return normalizeView(storage?.getItem(VIEW_KEY));

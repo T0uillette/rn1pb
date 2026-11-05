@@ -15,14 +15,16 @@ const sources = readdirSync(resolve(root, 'content/sections'))
 sources.push(
   { source: 'content/accueil.md', page: 'index.html' },
   { source: 'content/methode.md', page: 'methode/index.html' },
+  { source: 'content/proposer.md', page: 'proposer/index.html' },
+  { source: 'content/proposer-encadre.md', page: 'proposer/index.html' },
   { source: 'content/pied-de-page.md', page: 'index.html' },
-  { source: 'content/pied-de-page.md', page: 'recherche/index.html' },
+  { source: 'content/pied-de-page.md', page: 'liste/index.html' },
 );
 for (const { source, page, search } of sources) {
   const path = resolve(root, 'dist', page);
   if (!existsSync(path)) throw new Error(`Page absente : ${page}. Relancer npm run build.`);
   const targets = [readFileSync(path, 'utf8')];
-  if (search) targets.push(readFileSync(resolve(root, 'dist/recherche/index.html'), 'utf8'));
+  if (search) targets.push(readFileSync(resolve(root, 'dist/liste/index.html'), 'utf8'));
   const tree = unified().use(remarkParse).parse(stripFrontmatter(readFileSync(resolve(root, source), 'utf8')));
   function visit(node) {
     if (node.type === 'link' && /^(https?:|www\.)/.test(node.url)) {
@@ -35,5 +37,5 @@ for (const { source, page, search } of sources) {
   }
   visit(tree);
 }
-console.log(`${count} liens éditoriaux vérifiés dans les pages et la recherche, ${missing.length} absents.`);
+console.log(`${count} liens éditoriaux vérifiés dans les pages et la liste, ${missing.length} absents.`);
 if (missing.length) { console.error(missing.join('\n')); process.exit(1); }
