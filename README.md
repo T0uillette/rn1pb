@@ -70,6 +70,9 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Marine Le Pen dit à Mediapart « d’enfiler son costard en Kevlar »](https://www.leparisien.fr/politique/des-menaces-de-mort-marine-le-pen-dit-a-mediapart-denfiler-son-costard-en-kevlar-une-deputee-ecologiste-saisit-le-procureur-de-la-republique-29-09-2026-ONA345AGZREBROZ2SMIHW2CIOU.php) [[A]](https://archive.fo/pPTw3)
 - [Jean-Philippe Tanguy nie la proximité entre Marine Le Pen et Frédéric Chatillon, ancien chef du GUD](https://www.mediapart.fr/journal/france/021026/marine-le-pen-et-le-radioactif-frederic-chatillon-le-mensonge-de-jean-philippe-tanguy?utm_source=chatgpt.com) [[A]](https://archive.ph/nbSLG)
 - [Disques pro-nazis : Marie-Caroline Le Pen dirigeait la société, Marine Le Pen en était actionnaire](https://www.20min.ch/fr/story/france-les-soeurs-le-pen-auraient-commercialise-des-disques-pro-nazis-103659050) [[A]](https://archive.ph/b6OSH)
+- [Julien Odoul compare la commission sur l’inceste au « service sanitaire du Hamas »](https://ici.fr/infos/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul-8365470) [[A]](https://archive.ph/H1604)
+- [Le RN écarte plusieurs journalistes du lancement du livre de Jordan Bardella](https://www.streetpress.com/1793883196-mediapart-politis-streetpress-rassemblement-national-bardella-tri-journalistes-antisemitisme-extreme-droite-fayard-bollore/) [[A]](https://archive.ph/XYLfP)
+- [Marine Le Pen nie l’existence des discriminations en France](https://www.france24.com/fr/info-en-continu/20261109-pour-marine-le-pen-il-n-y-a-pas-de-discriminations-en-france) [[A]](https://archive.ph/AqKRR)
 
 ---
 
@@ -246,6 +249,11 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Cagnes-sur-mer - Le RN contre la culture - La mairie RN fait fermer un espace culturel ](https://www.telerama.fr/debats-reportages/a-cagnes-sur-mer-la-mairie-rn-ferme-arbitrairement-un-espace-d-experimentation-artistique-7033148.php) [[A]](https://archive.ph/lThlB#selection-645.7-649.90)
 - [Wittelsheim - les élections annuléesde cette mairie RN pour irrégularités, dont des polémiques électorales](https://www.staging.libe.io/politique/alsace-la-justice-annule-lelection-de-lunique-maire-rn-de-la-region-20261006_FIQEXCPEKRFIZDWOGKBROLAFQI/) [[A]](https://archive.ph/fOenD)
 - [Carcassone - le Maire RN muyltiplie les provocations](https://www.lemonde.fr/m-le-mag/article/2026/10/23/a-carcassonne-le-maire-rn-christophe-barthes-poursuit-ses-outrances-a-coups-de-provoc-sur-les-reseaux-sociaux_6798941_4500055.html) [[A]](https://archive.ph/1fdU2)
+- [Colmar : le RN veut supprimer la subvention d’une association jugée trop à gauche et contrôler la ligne politique des associations financées](https://www.rue89strasbourg.com/colmar-rn-attaque-associations-et-veut-museler-gauche-401225) [[A]](https://archive.ph/dPofL)
+- [Occitanie : le RN vote contre des aides aux ménages précaires, à l’insertion professionnelle et aux énergies renouvelables](https://www.mediacites.fr/enquete/toulouse/2026/11/16/antisocial-anti-enr-et-anti-taxe-a-quoi-ressemble-lopposition-du-rassemblement-national-au-conseil-regional-doccitanie/) [[A]](https://archive.ph/BHb5t)
+- [Grand Est : le RN fait pression sur les subventions pour contrôler la programmation culturelle](https://www.rue89strasbourg.com/region-grand-est-croisades-rn-contre-liberte-expression-401312) [[A]](https://archive.ph/vXnKJ)
+- [Alençon : les élus RN votent contre une subvention à un festival féministe et queer](https://lepoulpe.info/xenophobie-videosurveillance-associations-menacees-les-grandes-manoeuvres-de-l-extreme-droite-pour-peser-sur-les-mairies-d-alencon-et-de-saint-lo) [[A]](https://archive.ph/x2HL7)
+- [Hauts-de-France : absentéisme d’élus RN et opposition aux subventions à la culture et à la recherche](https://www.mediacites.fr/enquete/lille/2026/11/16/absences-polemiques-exclusions-dix-ans-de-groupe-rassemblement-national-a-la-region-hauts-de-france/) [[A]](https://web.archive.org/web/20261116095451/https://www.mediacites.fr/enquete/lille/2026/11/16/absences-polemiques-exclusions-dix-ans-de-groupe-rassemblement-national-a-la-region-hauts-de-france/)
 
 ---
 
