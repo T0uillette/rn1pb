@@ -38,6 +38,8 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Le RN veut supprimer les intercommunalités, importantyes pour la gestion et la vie de millions de personnes](https://www.lemonde.fr/politique/article/2026/10/07/presidentielle-2027-le-rassemblement-national-veut-supprimer-les-intercommunalites_6789595_823448.html) [[A]](https://archive.ph/HiuJd)
 - [Contre-budget du RN : Terra Nova relève des erreurs de chiffrage et dénonce un document « truffé d’IA »](https://www.rtl.fr/actu/politique/chiffres-surestimes-coquilles-ia-le-rn-epingle-pour-des-erreurs-dans-son-contre-budget-7900684659) [[A]](https://archive.ph/BOgFK)
 - [Le RN veut forcer la modification de la consititution par tous les moyens](https://www.20minutes.fr/politique/4253734-20261012-presidentielle-2027-ca-existe-ferrand-torpille-mesure-rn-visant-changer-constitution-referendum) [[A]](https://archive.ph/gMNa9)
+- [Retraites : le RN veut limiter à quatre les trimestres validés au titre du chômage](https://www.rtl.fr/actu/politique/reforme-des-retraites-de-marine-le-pen-pourquoi-les-femmes-et-les-travailleurs-precaires-pourraient-y-perdre-7900697600) [[A]](https://archive.ph/PwEl2)
+- [Marine Le Pen veut couper les subventions du Planning familial s’il continue d’appeler à voter](https://www.franceinfo.fr/elections/la-candidate-a-l-election-presidentielle-marine-le-pen-estime-que-couper-les-subventions-aux-associations-politisees-n-est-pas-du-chantage_8294897.html) [[A]](https://archive.ph/FPYbr)
 
 ---
 
@@ -73,6 +75,7 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Julien Odoul compare la commission sur l’inceste au « service sanitaire du Hamas »](https://ici.fr/infos/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul-8365470) [[A]](https://archive.ph/H1604)
 - [Le RN écarte plusieurs journalistes du lancement du livre de Jordan Bardella](https://www.streetpress.com/1793883196-mediapart-politis-streetpress-rassemblement-national-bardella-tri-journalistes-antisemitisme-extreme-droite-fayard-bollore/) [[A]](https://archive.ph/XYLfP)
 - [Marine Le Pen nie l’existence des discriminations en France](https://www.france24.com/fr/info-en-continu/20261109-pour-marine-le-pen-il-n-y-a-pas-de-discriminations-en-france) [[A]](https://archive.ph/AqKRR)
+- [Laure Lavalette a signé la présentation d’un livret étudiant contenant des écrits antisémites](https://lesjours.fr/obsessions/rn-derniere-marche-3/ep12-laure-lavalette-passe-neofasciste/) [[A]](https://archive.ph/1WxvI)
 
 ---
 
@@ -83,6 +86,7 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Intimidations face à des féministes](https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/) [[A]](https://web.archive.org/web/20250603210548/https://www.liberation.fr/societe/droits-des-femmes/resistance-feministe-dans-les-villes-rn-ils-tentent-de-nous-intimider-je-me-suis-deja-fait-suivre-20240704_4IJPRGGOTNAWHCCM2Q55ZLHMAA/)
 - [Le RN oblige ses candidats à acheter du matériel produit par des amis de Marine Le Pen](https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/) [[A]](https://web.archive.org/web/20250705053712/https://www.liberation.fr/politique/elections/affaire-des-kits-de-campagne-le-rn-a-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-20240619_CLRT52QP5RFIJFYIYGOOMCYPRI/)
 - [Le RN maintient un député soupçonné de détournements d’argent public](https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html)  [[A]](https://archive.ph/5RQM1)
+- [Soupçons de fuites d’informations judiciaires vers le RN : son siège a été perquisitionné](https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html) [[A]](https://archive.ph/deiqC)
 
 ---
 
@@ -198,6 +202,7 @@ _Archivage ! Les pages webs ne sont peut-être pas éternelles donc : les pages 
 - [Le RN et ses votes contre la santé des français](https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/) [[A]](https://web.archive.org/web/20260901104245/https://bonpote.com/pollution-pesticides-et-cadmium-le-rn-vote-contre-la-sante-des-francais/)
 - [Loi contre les violences sexistes et sexuelles : tout le monde vote pour, sauf le RN qui s'abstient](https://www.lavoixdunord.fr/1739958/article/2026-09-24/la-loi-integrale-contre-les-violences-sexistes-e-sexuelles-votee-l-unanimite-des) [[A]](https://archive.ph/gbsYN)
 - [Le RN s'abstient dans le vote pour la loi intégrale contre les VSS mais a quand même tenté des amendements racistes](https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-les-offensives-du-rn-sur-l-immigration) [[A]](https://archive.ph/WTyBr)
+- [Le RN fait adopter un amendement pour réautoriser la location des passoires thermiques](https://lcp.fr/actualites/logement-un-amendement-du-rn-visant-a-supprimer-l-interdiction-de-louer-des-passoires) [[A]](https://archive.ph/3nYzp)
 
 ---
 
